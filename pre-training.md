@@ -99,6 +99,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 - [Odds Ratio Review Video](https://www.youtube.com/watch?v=8nm0G-1uJzA)
 - [Chi Square Test Review Video](https://www.youtube.com/watch?v=N-j_00u9Z34)
+- [Conditional Probabilities and Contingency Tables](https://www.youtube.com/watch?v=Tat_2NX2I_M&list=WL&index=3&t=122s)
    
 
 [Anonymous Feedback Survey: Day 3](https://docs.google.com/forms/d/e/1FAIpQLSemkITi05PjWKu8k94eCiJ3FkkVmjs0adLFRe4YX4IlGaW1Gw/viewform?usp=sf_link)
