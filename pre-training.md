@@ -56,7 +56,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 [Anonymous Feedback Survey: Day 1](https://docs.google.com/forms/d/e/1FAIpQLSdi93kIAX4pefUS2sRtGPOPqx9F4sYnx5suDSpLo0G9ZO2U1A/viewform)
 
 
-Pre-Training Day 1: [Video HERE](https://drive.google.com/file/d/1up3venhsXZ-6_qGmUpPAkle4mJx83ZLP/view?usp=sharing)
+[Pre-Training Day 1 Video](https://drive.google.com/file/d/1up3venhsXZ-6_qGmUpPAkle4mJx83ZLP/view?usp=sharing)
 
 "Parking Lot" document with questions and answers [HERE](https://docs.google.com/document/d/1z03OZAadBO7o2oAV9QtbCricSdPopCwNOV5lXmqziXY/edit?usp=sharing)
 
@@ -79,7 +79,7 @@ Pre-Training Day 1: [Video HERE](https://drive.google.com/file/d/1up3venhsXZ-6_q
    
 [Anonymous Feedback Survey: Day 2](https://docs.google.com/forms/u/3/d/e/1FAIpQLSfU9ffW7Hn0t8OHRGOthOSUqcCvE8p6zMgxVeq0mkvIsbfQzg/viewform?usp=sf_link)
 
-[Pre-Training Day 2 Video]()
+[Pre-Training Day 2 Video](https://drive.google.com/file/d/1YpOSOCJUGuJASrfIIrF-VWkIhV_KdlYJ/view?usp=sharing)
 
 ------------------------------------------------------------------------
 
@@ -96,13 +96,14 @@ Pre-Training Day 1: [Video HERE](https://drive.google.com/file/d/1up3venhsXZ-6_q
 **Asynchronous Activity:**
 1. Read mixture modeling artice from Day 2, activity 2. Using the [workspace slide deck](https://docs.google.com/presentation/d/1t5QFkVq73hfMS2NlaeHiUNGWDyoHMrptuAD3ht-CwPI/edit?usp=drive_l), answer questions related to the article. We will discuss these at the start of day 4.
 2. To help with the review of logistic regression, watch these videos:
-   -[Odds Rio](https://www.youtube.com/watch?v=8nm0G-1uJzA)
-   -[Chi Square tests] (https://www.youtube.com/watch?v=N-j_00u9Z34)
+
+-[Odds Ratio](https://www.youtube.com/watch?v=8nm0G-1uJzA)
+-[Chi Square tests](https://www.youtube.com/watch?v=N-j_00u9Z34)
    
 
 [Anonymous Feedback Survey: Day 3](https://docs.google.com/forms/d/e/1FAIpQLSemkITi05PjWKu8k94eCiJ3FkkVmjs0adLFRe4YX4IlGaW1Gw/viewform?usp=sf_link)
 
-Pre-Training Day 3 Video
+[Pre-Training Day 3 Video](https://drive.google.com/file/d/1pdMCI6Jlclf7fnKYoETZjQfSeBFri5YC/view?usp=sharing)
 
 ------------------------------------------------------------------------
 
