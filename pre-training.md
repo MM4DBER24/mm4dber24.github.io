@@ -97,8 +97,8 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 1. Read mixture modeling artice from Day 2, activity 2. Using the [workspace slide deck](https://docs.google.com/presentation/d/1t5QFkVq73hfMS2NlaeHiUNGWDyoHMrptuAD3ht-CwPI/edit?usp=drive_l), answer questions related to the article. We will discuss these at the start of day 4.
 2. To help with the review of logistic regression, watch these videos:
 
--[Odds Ratio](https://www.youtube.com/watch?v=8nm0G-1uJzA)
--[Chi Square tests](https://www.youtube.com/watch?v=N-j_00u9Z34)
+- [Odds Ratio Review Video](https://www.youtube.com/watch?v=8nm0G-1uJzA)
+- [Chi Square Test Review Video](https://www.youtube.com/watch?v=N-j_00u9Z34)
    
 
 [Anonymous Feedback Survey: Day 3](https://docs.google.com/forms/d/e/1FAIpQLSemkITi05PjWKu8k94eCiJ3FkkVmjs0adLFRe4YX4IlGaW1Gw/viewform?usp=sf_link)
@@ -115,12 +115,11 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
    3. Interpret results of logistic regression
    4. Identify the importance of multinomial logistic regression in the context of LCA (What is it & why do we care?)
 
-
 **Synchronous Activity:**
 -   Slide deck [here](https://drive.google.com/file/d/1wK2TG3IP7LvWyOtdTlfkiHIAtzzeL0bp/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
     
-
+**Asynchronous Activity:**
 
 [Anonymous Feedback Survey: Day 4](https://docs.google.com/forms/d/e/1FAIpQLSfSQRtVzbaU1nq1guSKkOPZSCSGjK2nGOscDimoOktPRd9qsg/viewform?usp=sf_link)
 
