@@ -121,7 +121,9 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 -   Workspace [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
     
 **Asynchronous Activity:**
-
+- Activity 1: Interpret logistic regression output from Mplus output file - [Slide 17 Workspace](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
+- Activity 2: Review videos explaining odds ratios, conditional probabilities, and chi square tests (Optional; as needed) - [Slide 29 Workspace](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
+  
 [Anonymous Feedback Survey: Day 4](https://docs.google.com/forms/d/e/1FAIpQLSfSQRtVzbaU1nq1guSKkOPZSCSGjK2nGOscDimoOktPRd9qsg/viewform?usp=sf_link)
 
 Pre-Training Day 4 Video
@@ -141,10 +143,16 @@ Preparation:
 -   Work through the [Intro to R and RStudio tutorial](https://immerse-ucsb.github.io/intro_to_rstudio.pdf) if not already done, including installing R and RStudio.
 -   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
-  **Synchronous Activity:**
--   Slide deck [here]()
+**Synchronous Activity:**
+-   Slide deck [here](https://docs.google.com/presentation/d/1UNH-dZCGJB4eQIgNvpKX-XetLjXOlYP04aBz--q7mS4/edit?usp=drive_link)
 -   Workspace [here](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/edit?usp=drive_link)
 
+**Asynchronous Activity:**
+- Activity 1: Practice with R/R Studio, Mplus and MplusAutomation - [Slide 3 Workspace](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/edit?usp=drive_link)
+- Activity 2:  Identify and share an article on mixture modeling - [Slide 5 Workspace](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/edit?usp=drive_link)
+
+Resources:
+- [Mplus Operartion Handout - Syntax Rules](https://drive.google.com/file/d/144EgbJH4g2bduGmg-S24RQ9cBqn9KNRM/view?usp=drive_link)
 
 [Anonymous Feedback Survey: Day 5](https://docs.google.com/forms/d/e/1FAIpQLSd3FA_3AiiBmoSCPwdQecHMCmK66Au2wJayKTHwSpqkyD1Eyw/viewform?usp=sf_link)
 
