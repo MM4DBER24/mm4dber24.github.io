@@ -125,7 +125,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 - Activity 1: Interpret logistic regression output from Mplus output file - [Slide 17 Workspace](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
 - Activity 2: Review videos explaining odds ratios, conditional probabilities, and chi square tests (Optional; as needed) - [Slide 29 Workspace](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
 - 
-- Video (part 2 logistic regression): [Here](https://drive.google.com/file/d/1ez7jzXemsWlFp2daq87GKMvJNay9Ev4s/view?usp=sharing)
+- Video (Multinominal logistic regression, finishing slides we did not get to): [Here](https://drive.google.com/file/d/1ez7jzXemsWlFp2daq87GKMvJNay9Ev4s/view?usp=sharing)
   
 [Anonymous Feedback Survey: Day 4](https://docs.google.com/forms/d/e/1FAIpQLSfSQRtVzbaU1nq1guSKkOPZSCSGjK2nGOscDimoOktPRd9qsg/viewform?usp=sf_link)
 
