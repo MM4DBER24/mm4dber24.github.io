@@ -118,6 +118,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 **Synchronous Activity:**
 -   Slide deck [here](https://drive.google.com/file/d/1_lOT4SpHGS-vo0yFd3zqS3hj15M16zOL/view?usp=drive_link)
+-   [Fermant et al. (2021) article](https://drive.google.com/file/d/17l-8Tki9OgC1NVt_ga0WKpq38dpQWDJb/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
     
 **Asynchronous Activity:**
