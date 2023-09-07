@@ -117,7 +117,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
    4. Identify the importance of multinomial logistic regression in the context of LCA (What is it & why do we care?)
 
 **Synchronous Activity:**
--   Slide deck [here](https://drive.google.com/file/d/1wK2TG3IP7LvWyOtdTlfkiHIAtzzeL0bp/view?usp=sharing)
+-   Slide deck [here](https://drive.google.com/file/d/14feEFzTAm49E-E3N8ZUoQXb1vj_bVApF/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
     
 **Asynchronous Activity:**
