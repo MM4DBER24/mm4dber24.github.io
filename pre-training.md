@@ -141,13 +141,12 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 3.  This workshop will cover the creation of R-projects and R markdowns and discuss the benefits of organization of the R workflow.
 4.  Fellows will have the opportunity to learn how to enhance and customize their R markdowns by applying themes to their documents
 
-Preparation:
-
+**Preparation:**
 -   Work through the [Intro to R and RStudio tutorial](https://immerse-ucsb.github.io/intro_to_rstudio.pdf) if not already done, including installing R and RStudio.
 -   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
 **Synchronous Activity:**
--   Slide deck [here](https://docs.google.com/presentation/d/1UNH-dZCGJB4eQIgNvpKX-XetLjXOlYP04aBz--q7mS4/edit?usp=drive_link)
+-   Slide deck [here](https://drive.google.com/file/d/1Vudm3MHlqri7HX-B20Vh1FFnQJLY6YPp/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/edit?usp=drive_link)
 
 **Asynchronous Activity:**
