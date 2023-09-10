@@ -143,6 +143,8 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 **Preparation:**
 -   Instal R, Mplus, and RStudio
+-   Watch videos (if you haven't already): [Intro to R](https://drive.google.com/file/d/1jzFAK_bOD2HAjZMyHVG8npYQ0rSOXina/view?usp=drive_link) , 
+[Intro to MplusAutomation](https://drive.google.com/file/d/1WEb0BLldZ3lAMbLEdAtNw2h0vV0CSjus/view?usp=drive_link) 
 -   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
 **Synchronous Activity:**
