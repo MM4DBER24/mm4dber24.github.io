@@ -136,16 +136,15 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 ### Day 5 (September 11, 2023): R, RStudio and MplusAutomation
 
 **Learning Outcomes:**
-1.  Using Mplus software, fellows will learn the basic skeleton of a Mplus input (*.inp*) syntax, run basic descriptive statistics, and evaluate output (*.out*)
+1.  Using Mplus software, fellows the basic skeleton of a Mplus input (*.inp*) syntax, run basic descriptive statistics, and evaluate output (*.out*)
 2.  Run descriptive statistics in R using the `MplusAutomation` package 
 3.  This workshop will cover the creation of R-projects and R markdowns and discuss the benefits of organization of the R workflow.
-4.  Fellows will have the opportunity to learn how to enhance and customize their R markdowns by applying themes to their documents
+
 
 **Preparation:**
 -   Instal R, Mplus, and RStudio
 -   Watch videos (if you haven't already): [Intro to R](https://drive.google.com/file/d/1jzFAK_bOD2HAjZMyHVG8npYQ0rSOXina/view?usp=drive_link) , 
 [Intro to MplusAutomation](https://drive.google.com/file/d/1WEb0BLldZ3lAMbLEdAtNw2h0vV0CSjus/view?usp=drive_link) 
--   Read ["Why don't we share data and code? Perceived barriers and benefits to public archiving practices" (Gomes et al. 2022)](<https://drive.google.com/file/d/1JwVBErmizy4A660cMGUsaJEc5AVr5aUE/view?usp=share_link>) and reflect on your coding and sharing practices and challenges, in preparation for a brief discussion in the synchronous session.
 
 **Synchronous Activity:**
 -   Slide deck [here](https://drive.google.com/file/d/1Vudm3MHlqri7HX-B20Vh1FFnQJLY6YPp/view?usp=sharing)
