@@ -159,7 +159,7 @@ Resources:
 
 [Anonymous Feedback Survey: Day 5](https://docs.google.com/forms/d/e/1FAIpQLSd3FA_3AiiBmoSCPwdQecHMCmK66Au2wJayKTHwSpqkyD1Eyw/viewform?usp=sf_link)
 
-Pre-Training Day 5 Video
+[Pre-Training Day 5 Video](https://drive.google.com/file/d/1UH4otrk7CAoXlzO8WeZDAMy3gxLFed3M/view?usp=sharing)
 
 ------------------------------------------------------------------------
 
