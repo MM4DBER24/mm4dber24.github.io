@@ -61,8 +61,9 @@ Preparation: Make sure you have...
 
 #### Asynchronous Activity:
 
-- Activity 1: 
-- Activity 2: 
+- Activity 1: [here]()  >>ADD VIDEO HERE, LCA EXAMPLE<
+- Activity 2: [here](https://docs.google.com/document/d/11tngHJFCMFJEB-rrXoojuRqyuvcyBVSNvaeB94zEe1o/copy?usp=drive_link)
+- Activity 3: [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
 
 [Training Day 2 Video]()
 
