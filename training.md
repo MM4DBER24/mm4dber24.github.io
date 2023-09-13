@@ -1,4 +1,4 @@
-# MM4DBER Training Materials
+![image](https://github.com/MM4DBER/mm4dber.github.io/assets/72623067/76006cf9-baa7-4c74-b8b9-87c4b83b7e5b)# MM4DBER Training Materials
 
 ------------------------------------------------------------------------
 
@@ -34,13 +34,14 @@ Preparation: Make sure you have...
 
 #### Asynchronous Activity:
 
-- Activity 1: Watch this video that highlights the Mplus code and output file when running a mixture model linked [here]()  >>ADD VIDEO HERE, LCA EXAMPLE<
-- Activity 2: Run your first LCA model and do the scavenger hunt looking for important parts of the  the Mplus output.  All materials are found [here](https://docs.google.com/document/d/11tngHJFCMFJEB-rrXoojuRqyuvcyBVSNvaeB94zEe1o/copy?usp=drive_link) Answer key linked [here]
-- Activity 3: This introductory paper on LCA may be a helpful read [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
+- **Activity 1**: Watch this video that highlights the Mplus code and output file when running a mixture model linked [here]()  >>ADD VIDEO HERE, LCA EXAMPLE<
+- **Activity 2**: Run your first LCA model and do the scavenger hunt looking for important parts of the Mplus output.  All materials are found [here](https://docs.google.com/document/d/11tngHJFCMFJEB-rrXoojuRqyuvcyBVSNvaeB94zEe1o/copy?usp=drive_link)
+- -Answer key linked [here]
+- **Activity 3**: This introductory paper on LCA may be a helpful read [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
 
 [Training Day 1 Video]()
 
-[Anonymous Feedback Survey](https://forms.gle/Nq7xaV2zobq3VmPE6))
+[Anonymous Feedback Survey](https://forms.gle/Nq7xaV2zobq3VmPE6)
  
 ------------------------------------------------------------------------
 
