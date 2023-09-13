@@ -34,8 +34,8 @@ Preparation: Make sure you have...
 
 #### Asynchronous Activity:
 
-- Activity 1: [here]()  >>ADD VIDEO HERE, LCA EXAMPLE<
-- Activity 2: [here](https://docs.google.com/document/d/11tngHJFCMFJEB-rrXoojuRqyuvcyBVSNvaeB94zEe1o/copy?usp=drive_link)
+- Activity 1: Watch video about the mixture modeling output[here]()  >>ADD VIDEO HERE, LCA EXAMPLE<
+- Activity 2: Run an LCA model and answer a set of questions about the Mplus output.  All materials are found [here](https://docs.google.com/document/d/11tngHJFCMFJEB-rrXoojuRqyuvcyBVSNvaeB94zEe1o/copy?usp=drive_link)
 - Activity 3: [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
 
 [Training Day 1 Video]()
