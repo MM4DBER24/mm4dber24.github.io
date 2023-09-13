@@ -66,7 +66,9 @@ Preparation: Make sure you have...
 - Activity 2: 
 
 [Training Day 2 Video]()
+
 [Anonymous Feedback Survey](https://forms.gle/Q7CWTctepKFNho4a7)
+
 ------------------------------------------------------------------------
 
 ### Day 3 Training (September 21, 2023): 
@@ -91,7 +93,9 @@ Preparation: Make sure you have...
 - Activity 2: 
 
 [Training Day 3 Video]()
+
 [Anonymous Feedback Survey](https://forms.gle/HR4Y6Ug7Wsx8Usth7)
+
 ------------------------------------------------------------------------
 
 ### Day 4 Training (September 25, 2023): 
@@ -118,6 +122,7 @@ Preparation: Make sure you have...
 [Training Day 4 Video]()
 
 [Anonymous Feedback Survey](https://forms.gle/DTGxVSoMS65x5DDNA)
+
 ------------------------------------------------------------------------
 
 ### Day 5 Training (September 28, 2023): 
@@ -142,6 +147,7 @@ Preparation: Make sure you have...
 - Activity 2: 
 
 [Training Day 5 Video]()
+
 [Anonymous Feedback Survey](https://forms.gle/1fWM75EvAA3qkWBAA)
 
 ------------------------------------------------------------------------
