@@ -1,4 +1,4 @@
-![image](https://github.com/MM4DBER/mm4dber.github.io/assets/72623067/76006cf9-baa7-4c74-b8b9-87c4b83b7e5b)# MM4DBER Training Materials
+# MM4DBER Training Materials
 
 ------------------------------------------------------------------------
 
