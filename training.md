@@ -30,16 +30,14 @@ Preparation: Make sure you have...
 #### Synchronous Activity:
 
 - Slide deck [here]()
-- [Workspace]()
 
 #### Asynchronous Activity:
 
-- **Activity 1**: Watch this video that highlights the Mplus code and output file when running a mixture model linked  >>ADD VIDEO HERE, LCA EXAMPLE<
-- **Activity 2**: Run your first LCA model and do the scavenger hunt looking for important parts of the Mplus output.  All materials are found [here](https://docs.google.com/document/d/11tngHJFCMFJEB-rrXoojuRqyuvcyBVSNvaeB94zEe1o/copy?usp=drive_link)
+- **Activity 1**: Run your first LCA model and do the scavenger hunt looking for important parts of the Mplus output.  All materials are found [here](https://docs.google.com/document/d/11tngHJFCMFJEB-rrXoojuRqyuvcyBVSNvaeB94zEe1o/copy?usp=drive_link)
 
 > Answer key: [Questions & Answers](https://docs.google.com/document/d/1r1khPI-99uIamGRukCV_JJRGV7d5eBs0RlHQM7IPvZ0/edit?usp=sharing) , [Annotated Mplus Output](https://docs.google.com/document/d/1ettnt7BLu-8HPE-jxyIrfHa9CVerrqu_OzZXR2FIAuo/edit?usp=sharing)
 
-- **Activity 3**: This introductory paper on LCA may be a helpful read [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
+- **Activity 1**: This introductory paper on LCA may be a helpful read [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
 
 [Training Day 1 Video]()
 
