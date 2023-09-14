@@ -23,9 +23,11 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 Preparation: Make sure you have...
 
 #### Learning Outcomes:
+1. Recognize the LCA statistical model
+2. Interpret LCA model parameters
+3. Evaluate conditional item probability plots
+4. Have a basic understanding of the Mplus code and output for an LCA model
 
-1. Fellows will understand the latent class model parameters
-2. Fellows will know the important model parameters of the LCA model and their interpretation
 
 #### Synchronous Activity:
 
