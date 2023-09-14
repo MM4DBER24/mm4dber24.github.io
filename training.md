@@ -31,7 +31,7 @@ Preparation: Make sure you have...
 
 #### Synchronous Activity:
 
-- Slide deck [here]()
+- Slide deck [here](https://drive.google.com/file/d/1feG8B-REsBLu7ZIzMBUXyP9Tfl-db6CR/view?usp=sharing)
 
 #### Asynchronous Activity:
 
