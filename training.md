@@ -39,7 +39,7 @@ Preparation: Make sure you have...
 
 > Answer key: [Questions & Answers](https://docs.google.com/document/d/1r1khPI-99uIamGRukCV_JJRGV7d5eBs0RlHQM7IPvZ0/edit?usp=sharing) , [Annotated Mplus Output](https://docs.google.com/document/d/1ettnt7BLu-8HPE-jxyIrfHa9CVerrqu_OzZXR2FIAuo/edit?usp=sharing)
 
-- **Activity 1**: This introductory paper on LCA may be a helpful read [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
+- **Activity 2 (optional)**: This introductory paper on LCA may be a helpful read [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
 
 [Training Day 1 Video]()
 
