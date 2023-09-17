@@ -41,7 +41,7 @@ Preparation: Make sure you have...
 
 - **Activity 2 (optional)**: This introductory paper on LCA may be a helpful read [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
 
-[Training Day 1 Video]()
+[Training Day 1 Video](https://drive.google.com/file/d/1f4MkAslkuX8064GE4g3VjtaCIm-xJFFj/view?usp=sharing)
 
 [Anonymous Feedback Survey](https://forms.gle/Nq7xaV2zobq3VmPE6)
  
