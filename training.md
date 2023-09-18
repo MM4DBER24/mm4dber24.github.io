@@ -53,22 +53,22 @@ Preparation: Make sure you have...
 
 #### Learning Outcomes:
 
-1. Fellows will be able to...
+1. Understand the principles of item selection in LCA
+2. Know the principles of evaluating mixture models
+3. Understand the statistical tools available to evaluate models
 
-2. Fellows will be able to...
 
 
 #### Synchronous Activity:
 
-- Slide deck [here]()
-- [Workspace]()
+- Slide deck [here](https://drive.google.com/file/d/1lh29-QfKppkDeDK2VChHZt-X6DgVudMl/view?usp=sharing)
 
 #### Asynchronous Activity:
 
 Activity 1: 
-- Watch video and follow along in Rstudio: [Video](https://www.youtube.com/watch?v=fPpcScLZFRI)
+- Watch this code-along video and follow along in Rstudio: [Video](https://www.youtube.com/watch?v=fPpcScLZFRI)
 - Tutorial handout: [Link here](https://mm4dber.github.io/Intro-to-LCA.html)
-- Download Github repository here: [Intro_to_LCA](https://github.com/MM4DBER/Intro_to_LCA)
+- Download the Github repository here: [Intro_to_LCA](https://github.com/MM4DBER/Intro_to_LCA)
 
 [Training Day 2 Video]()
 
