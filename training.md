@@ -49,15 +49,11 @@ Preparation: Make sure you have...
 
 ### Day 2 Training (September 18, 2023): 
 
-Preparation: Make sure you have...
-
 #### Learning Outcomes:
 
 1. Understand the principles of item selection in LCA
 2. Know the principles of evaluating mixture models
 3. Understand the statistical tools available to evaluate models
-
-
 
 #### Synchronous Activity:
 
@@ -70,7 +66,7 @@ Activity 1:
 - Tutorial handout: [Link here](https://mm4dber.github.io/Intro_to_LCA.html)
 - Download the Github repository here: [Intro_to_LCA](https://github.com/MM4DBER/Intro_to_LCA)
 
-[Training Day 2 Video]()
+Training Day 2 Video
 
 [Anonymous Feedback Survey](https://forms.gle/Q7CWTctepKFNho4a7)
 
