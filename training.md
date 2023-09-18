@@ -67,7 +67,7 @@ Preparation: Make sure you have...
 
 Activity 1: 
 - Watch this code-along video and follow along in Rstudio: [Video](https://www.youtube.com/watch?v=fPpcScLZFRI)
-- Tutorial handout: [Link here](https://mm4dber.github.io/Intro-to-LCA.html)
+- Tutorial handout: [Link here](https://mm4dber.github.io/Intro_to_LCA.html)
 - Download the Github repository here: [Intro_to_LCA](https://github.com/MM4DBER/Intro_to_LCA)
 
 [Training Day 2 Video]()
