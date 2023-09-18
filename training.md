@@ -65,8 +65,10 @@ Preparation: Make sure you have...
 
 #### Asynchronous Activity:
 
-- Activity 1: 
-- Activity 2: 
+Activity 1: 
+- Watch video and follow along in Rstudio: [Video](https://www.youtube.com/watch?v=fPpcScLZFRI)
+- Tutorial handout: [Link here](https://mm4dber.github.io/Intro-to-LCA.html)
+- Download Github repository here: [Intro_to_LCA](https://github.com/MM4DBER/Intro_to_LCA)
 
 [Training Day 2 Video]()
 
