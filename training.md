@@ -66,7 +66,7 @@ Activity 1:
 - Tutorial handout: [Link here](https://mm4dber.github.io/Intro_to_LCA.html)
 - Download the Github repository here: [Intro_to_LCA](https://github.com/MM4DBER/Intro_to_LCA)
 
-Training Day 2 Video
+[Training Day 2 Video](https://drive.google.com/file/d/1ryrIj2hYSmPT8TVVi_F6W45g_bOl_Pdk/view?usp=sharing)
 
 [Anonymous Feedback Survey](https://forms.gle/Q7CWTctepKFNho4a7)
 
