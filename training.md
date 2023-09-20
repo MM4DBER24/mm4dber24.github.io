@@ -90,8 +90,9 @@ Preparation: Make sure you have...
 
 #### Asynchronous Activity:
 
-- Activity 1: 
-- Activity 2: 
+- Watch this code-along video and follow along in Rstudio: [Video](https://youtu.be/MZSFKmTLZRI?si=_eQLhpj046rMPuRM)
+- Tutorial handout: [Link here](https://mm4dber.github.io/3step-Method.html)
+- Download the Github repository here: [3-Step](https://github.com/MM4DBER/3-Step)
 
 [Training Day 3 Video]()
 
