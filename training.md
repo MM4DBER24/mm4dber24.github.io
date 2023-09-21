@@ -78,15 +78,14 @@ Preparation: Make sure you have...
 
 #### Learning Outcomes:
 
-1. Fellows will be able to...
-
-2. Fellows will be able to...
+1. Understand the principles of evaluating mixture models
+2. Been exposed to the complex enumeration process
+3. Understand the multi-step process for auxiliary variables
 
 
 #### Synchronous Activity:
 
-- Slide deck [here]()
-- [Workspace]()
+- Slide deck [here](https://docs.google.com/presentation/d/1oDzQz5h3JXNV4slsfoZkybpTNFwwN44aTfTgvRWlx8g/edit?usp=sharing)
 
 #### Asynchronous Activity:
 
