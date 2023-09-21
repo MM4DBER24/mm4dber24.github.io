@@ -85,7 +85,7 @@ Preparation: Make sure you have...
 
 #### Synchronous Activity:
 
-- Slide deck [here](https://docs.google.com/presentation/d/1oDzQz5h3JXNV4slsfoZkybpTNFwwN44aTfTgvRWlx8g/edit?usp=sharing)
+- Slide deck [here](https://drive.google.com/file/d/1l0kErGFGgARp6OjuGKFLL6f9diz9wAgJ/view?usp=sharing)
 
 #### Asynchronous Activity:
 
