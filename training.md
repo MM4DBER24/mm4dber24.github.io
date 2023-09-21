@@ -74,8 +74,6 @@ Activity 1:
 
 ### Day 3 Training (September 21, 2023): 
 
-Preparation: Make sure you have...
-
 #### Learning Outcomes:
 
 1. Understand the principles of evaluating mixture models
@@ -93,7 +91,7 @@ Preparation: Make sure you have...
 - Finish the code-along activity from day-2: We recommend reviewing sections of the video that were covered today (I.e., the enumeration table, IC plot, classification diagnostics table, and response pattern table).
 - Review the [10 FAQs in LCA article](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing) if you haven’t done so already.
 
-[Training Day 3 Video]()
+[Training Day 3 Video](https://drive.google.com/file/d/1t7OnVbrsdQQXK6x_vJo0qRce6x8W41fj/view?usp=drive_link)
 
 [Anonymous Feedback Survey](https://forms.gle/HR4Y6Ug7Wsx8Usth7)
 
@@ -112,8 +110,7 @@ Preparation: Make sure you have...
 
 #### Synchronous Activity:
 
-- Slide deck [here]()
-- [Workspace]()
+- Slide deck 
 
 #### Asynchronous Activity:
 
@@ -121,7 +118,7 @@ Preparation: Make sure you have...
 - Tutorial handout: [Link here](https://mm4dber.github.io/3step-Method.html)
 - Download the Github repository here: [3-Step](https://github.com/MM4DBER/3-Step)
 
-[Training Day 4 Video]()
+Training Day 4 Video
 
 [Anonymous Feedback Survey](https://forms.gle/DTGxVSoMS65x5DDNA)
 
