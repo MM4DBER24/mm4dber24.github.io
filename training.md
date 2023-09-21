@@ -89,9 +89,9 @@ Preparation: Make sure you have...
 
 #### Asynchronous Activity:
 
-- Watch this code-along video and follow along in Rstudio: [Video](https://youtu.be/MZSFKmTLZRI?si=_eQLhpj046rMPuRM)
-- Tutorial handout: [Link here](https://mm4dber.github.io/3step-Method.html)
-- Download the Github repository here: [3-Step](https://github.com/MM4DBER/3-Step)
+- Review slides 36 - 72 on auxiliary variables that we did not get to in today’s training (recording).
+- Finish the code-along activity from day-2: We recommend reviewing sections of the video that were covered today (I.e., the enumeration table, IC plot, classification diagnostics table, and response pattern table).
+- Review the [10 FAQs in LCA article](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing) if you haven’t done so already.
 
 [Training Day 3 Video]()
 
@@ -117,8 +117,9 @@ Preparation: Make sure you have...
 
 #### Asynchronous Activity:
 
-- Activity 1: 
-- Activity 2: 
+- Watch this code-along video and follow along in Rstudio: [Video](https://youtu.be/MZSFKmTLZRI?si=_eQLhpj046rMPuRM)
+- Tutorial handout: [Link here](https://mm4dber.github.io/3step-Method.html)
+- Download the Github repository here: [3-Step](https://github.com/MM4DBER/3-Step)
 
 [Training Day 4 Video]()
 
