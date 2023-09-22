@@ -83,7 +83,7 @@ Activity 1:
 
 #### Synchronous Activity:
 
-- Slide deck [here](https://drive.google.com/file/d/1Mx4_m2KZgwIxvoPlLFKiB_UK9LSiYgIp/view?usp=sharing)
+- Slide deck [here](https://drive.google.com/file/d/1t7OnVbrsdQQXK6x_vJo0qRce6x8W41fj/view?usp=sharing)
 
 #### Asynchronous Activity:
 
