@@ -99,8 +99,6 @@ Activity 1:
 
 ### Day 4 Training (September 25, 2023): 
 
-Preparation: Make sure you have...
-
 #### Learning Outcomes:
 
 1. Understand the utility of auxiliary variables in mixture modeling
@@ -109,7 +107,8 @@ Preparation: Make sure you have...
 
 #### Synchronous Activity:
 
-- Slide deck [Here](https://drive.google.com/file/d/1yt-ySTR40yAJxibd0QdKjclN_yT2fsI0/view?usp=sharing) 
+- Slide deck [Here](https://drive.google.com/file/d/1yt-ySTR40yAJxibd0QdKjclN_yT2fsI0/view?usp=sharing)
+- Mplus output file example: [examplecovanddistal.out](https://drive.google.com/file/d/1DZNZ2DFY-oRwAu1OJecb_TDXgUacSD5J/view?usp=sharing)
 
 #### Asynchronous Activity:
 
