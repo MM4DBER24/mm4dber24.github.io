@@ -108,7 +108,7 @@ Activity 1:
 #### Synchronous Activity:
 
 - Slide deck [Here](https://drive.google.com/file/d/1yt-ySTR40yAJxibd0QdKjclN_yT2fsI0/view?usp=sharing)
-- Mplus output file example: [examplecovanddistal.out](https://drive.google.com/file/d/1DZNZ2DFY-oRwAu1OJecb_TDXgUacSD5J/view?usp=sharing)
+- Mplus output file example: [c4_covariate_only.out](https://drive.google.com/file/d/1DZNZ2DFY-oRwAu1OJecb_TDXgUacSD5J/view?usp=sharing)
 
 #### Asynchronous Activity:
 
