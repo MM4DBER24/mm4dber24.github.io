@@ -116,7 +116,7 @@ Activity 1:
 - Tutorial handout: [Link here](https://mm4dber.github.io/3step-Method.html)
 - Download the Github repository here: [3-Step](https://github.com/MM4DBER/3-Step)
 
-Training Day 4 Video
+[Training Day 4 Video](https://drive.google.com/file/d/1tS0l5BbGPlfDS0QxFkf3uH37qenTmg-U/view?usp=sharing)
 
 [Anonymous Feedback Survey](https://forms.gle/DTGxVSoMS65x5DDNA)
 
