@@ -103,14 +103,13 @@ Preparation: Make sure you have...
 
 #### Learning Outcomes:
 
-1. Fellows will be able to...
-
-2. Fellows will be able to...
-
+1. Understand the utility of auxiliary variables in mixture modeling
+2. Learn about the multi-step approach to auxiliary variables
+3. Understand how to incorporate covariate and distal outcomes into mixture models
 
 #### Synchronous Activity:
 
-- Slide deck 
+- Slide deck [Here](https://drive.google.com/file/d/1yt-ySTR40yAJxibd0QdKjclN_yT2fsI0/view?usp=sharing) 
 
 #### Asynchronous Activity:
 
