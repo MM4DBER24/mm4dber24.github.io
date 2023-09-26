@@ -112,9 +112,15 @@ Activity 1:
 
 #### Asynchronous Activity:
 
+**Activity 1: ML 3-Step Method**
 - Watch this code-along video and follow along in Rstudio: [Video](https://youtu.be/MZSFKmTLZRI?si=_eQLhpj046rMPuRM)
 - Tutorial handout: [Link here](https://mm4dber.github.io/3step-Method.html)
 - Download the Github repository here: [3-Step](https://github.com/MM4DBER/3-Step)
+
+**Activity 2 (optional): Interpretation of auxiliary variables**
+- Watch this code-along video and follow along in Rstudio: [Video](https://www.youtube.com/watch?v=3UGMuAVbiac)
+- Tutorial handout: [Link here](https://mm4dber.github.io/interpret-aux-vars.html)
+- Download the Github repository here: [Interpretation of auxiliary variables](https://github.com/MM4DBER/auxiliary-variables)
 
 [Training Day 4 Video](https://drive.google.com/file/d/1tS0l5BbGPlfDS0QxFkf3uH37qenTmg-U/view?usp=sharing)
 
