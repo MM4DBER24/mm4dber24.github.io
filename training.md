@@ -145,14 +145,9 @@ Preparation: Make sure you have...
 - Slide deck [here](https://drive.google.com/file/d/1phquApGsfFJoREJJpVepKA_8HqkUkeUm/view?usp=sharing)
 - [Workspace]()
 
-#### Asynchronous Activity:
-
-- Activity 1: 
-- Activity 2: 
-
 [Training Day 5 Video]()
 
-[Anonymous Feedback Survey](https://forms.gle/1fWM75EvAA3qkWBAA)
+Feedback document [here](https://docs.google.com/document/d/19yAyjR7Nu9br81kG3LuURncwrkN7ll3uXEh_r9u9iMg/edit?usp=sharing)
 
 ------------------------------------------------------------------------
 
