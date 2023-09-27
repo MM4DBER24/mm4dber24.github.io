@@ -134,14 +134,15 @@ Preparation: Make sure you have...
 
 #### Learning Outcomes:
 
-1. Fellows will be able to...
+1. Understand what LPA is and how it differs from LCA
+2. Have exposure to extensions of the LCA and LPA models
+3. Know more about the year long MM4DBER training program
 
-2. Fellows will be able to...
 
 
 #### Synchronous Activity:
 
-- Slide deck [here]()
+- Slide deck [here](https://drive.google.com/file/d/1phquApGsfFJoREJJpVepKA_8HqkUkeUm/view?usp=sharing)
 - [Workspace]()
 
 #### Asynchronous Activity:
