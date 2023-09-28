@@ -144,7 +144,7 @@ Activity 1:
 - Slide deck [here](https://drive.google.com/file/d/1phquApGsfFJoREJJpVepKA_8HqkUkeUm/view?usp=sharing)
 - Feedback document [here](https://docs.google.com/document/d/19yAyjR7Nu9br81kG3LuURncwrkN7ll3uXEh_r9u9iMg/edit?usp=sharing)
 
-[Training Day 5 Video]()
+[Training Day 5 Video](https://drive.google.com/file/d/1zX_1TloKZMXt1IEULKhJlHEYwSCmhQu0/view?usp=sharing)
 
 
 ------------------------------------------------------------------------
