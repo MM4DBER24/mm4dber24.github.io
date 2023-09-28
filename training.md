@@ -130,7 +130,6 @@ Activity 1:
 
 ### Day 5 Training (September 28, 2023): 
 
-Preparation: Make sure you have...
 
 #### Learning Outcomes:
 
@@ -139,15 +138,13 @@ Preparation: Make sure you have...
 3. Know more about the year long MM4DBER training program
 
 
-
 #### Synchronous Activity:
 
 - Slide deck [here](https://drive.google.com/file/d/1phquApGsfFJoREJJpVepKA_8HqkUkeUm/view?usp=sharing)
-- [Workspace]()
+- Feedback document [here](https://docs.google.com/document/d/19yAyjR7Nu9br81kG3LuURncwrkN7ll3uXEh_r9u9iMg/edit?usp=sharing)
 
 [Training Day 5 Video]()
 
-Feedback document [here](https://docs.google.com/document/d/19yAyjR7Nu9br81kG3LuURncwrkN7ll3uXEh_r9u9iMg/edit?usp=sharing)
 
 ------------------------------------------------------------------------
 
