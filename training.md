@@ -16,13 +16,12 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 </p>
 
-"Parking Lot" document with questions and answers [HERE](https://docs.google.com/document/d/1z03OZAadBO7o2oAV9QtbCricSdPopCwNOV5lXmqziXY/edit?usp=sharing)
+#### "Parking Lot" document with questions and answers [HERE](https://docs.google.com/document/d/1z03OZAadBO7o2oAV9QtbCricSdPopCwNOV5lXmqziXY/edit?usp=sharing)
 
 ------------------------------------------------------------------------
 
 ### Day 1 Training (September 14, 2023): Introduction to the Latent Class Analysis (LCA) Model
 
-Preparation: Make sure you have...
 
 #### Learning Outcomes:
 1. Recognize the LCA statistical model
@@ -157,8 +156,6 @@ Helpful Links:
 -   Visit our [GitHub](https://github.com/MM4DBER/mm4dber.github.io) account to access all the MM4DBER materials.
 
 -   Follow us on [Twitter](https://twitter.com/mm4dbers)!
-
-How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2023). IMMERSE Pre-Training Workshop (IES No. 305B220021). Institute of Education Sciences. <https://mm4dber.github.io/pre-training>
 
 ------------------------------------------------------------------------
 
