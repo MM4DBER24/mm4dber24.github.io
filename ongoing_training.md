@@ -26,7 +26,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 - Article: [Suzuki et al., 2021 QuantCrit and Mixture Modeling](https://drive.google.com/file/d/1e2PJeio2vxp7tZy_6lQNGQ5yZTVJ2_Ip/view?usp=sharing)
 
-- Meeting 10.6: [Slides](https://docs.google.com/presentation/d/1EvZjWNwG1ih6ysGpHPi7m6ZRo_9fjyluOgEYTLS4Q4U/edit?usp=sharing)
+- Meeting slides: [HERE](https://docs.google.com/presentation/d/1EvZjWNwG1ih6ysGpHPi7m6ZRo_9fjyluOgEYTLS4Q4U/edit?usp=sharing)
 
 
 
