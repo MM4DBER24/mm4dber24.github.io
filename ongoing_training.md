@@ -28,6 +28,18 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 - Meeting slides: [HERE](https://docs.google.com/presentation/d/1EvZjWNwG1ih6ysGpHPi7m6ZRo_9fjyluOgEYTLS4Q4U/edit?usp=sharing)
 
+**Positionality Statements Shared in Meeting**
+
+**Engineering Education examples**
+-  Hampton, C., Reeping, D., & Ozkan, D. S. (2021). Positionality Statements in Engineering Education Research: A Look at the Hand that Guides the Methodological Tools. Studies in Engineering Education, 1(2), 126. https://doi.org/10.21061/see.13 
+- Secules, S., McCall, C., Mejia, J. A., Beebe, C., Masters, A. S., L. Sánchez‐Peña, M., & Svyantek, M. (2021). Positionality practices and dimensions of impact on equity research: A collaborative inquiry and call to the community. Journal of Engineering Education, 110(1), 19–43. https://doi.org/10.1002/jee.20377
+
+**Examples from Education (that Tati shares with people who ask)**
+
+- H. Milner (2007). Race, culture, and researcher positionality: Working through dangers seen, unseen, and unforeseen.
+https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
+- M. Miles et al. (2019). Cultivating racial solidarity among mathematics education Scholars of Color to resist white supremacy. https://libjournal.uncg.edu/ijcp/article/view/1901
+- Beyond Making a Statement: An Intersectional Framing of the Power and Possibilities of Positioning https://journals.sagepub.com/doi/abs/10.3102/0013189X231167149
 
 
 ------------------------------------------------------------------------
