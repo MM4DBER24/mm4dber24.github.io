@@ -28,7 +28,10 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 - Meeting slides: [HERE](https://docs.google.com/presentation/d/1EvZjWNwG1ih6ysGpHPi7m6ZRo_9fjyluOgEYTLS4Q4U/edit?usp=sharing)
 
-**Positionality Statements Shared in Meeting**
+**Positionality Statements Shared in Meeting** 
+
+
+- All papers are [HERE] (https://drive.google.com/drive/folders/1WTf_d04IWFFgAE7qbAXc1aLG7ep3WVev?usp=sharing)
 
 **Engineering Education examples**
 -  Hampton, C., Reeping, D., & Ozkan, D. S. (2021). Positionality Statements in Engineering Education Research: A Look at the Hand that Guides the Methodological Tools. Studies in Engineering Education, 1(2), 126. https://doi.org/10.21061/see.13 
