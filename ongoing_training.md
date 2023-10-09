@@ -44,6 +44,8 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 - M. Miles et al. (2019). Cultivating racial solidarity among mathematics education Scholars of Color to resist white supremacy. https://libjournal.uncg.edu/ijcp/article/view/1901
 - Beyond Making a Statement: An Intersectional Framing of the Power and Possibilities of Positioning https://journals.sagepub.com/doi/abs/10.3102/0013189X231167149
 
+** Video recording:** [HERE](https://drive.google.com/file/d/18C6HVN9GrqYn6AnEu-rvBYCh1TMXOK_S/view?usp=sharing)
+
 
 ------------------------------------------------------------------------
 
