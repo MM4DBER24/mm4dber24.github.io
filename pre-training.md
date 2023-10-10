@@ -70,7 +70,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
    2. Construct a person-centered research goal in a research topic that you are interested in   
 
 **Synchronous Activity:**
--   Slide deck [here](https://drive.google.com/file/d/1FiMloutpFxqAftlTFGMz-9u_iiPFHQZR/view?usp=sharing)
+-   Slide deck [here](https://drive.google.com/file/d/163CHSSS-1CxQH_8iBUyMLzGtjJakFQjh/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=drive_link)
 
 **Asynchronous Activity:**
