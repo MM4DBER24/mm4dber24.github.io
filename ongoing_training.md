@@ -49,6 +49,17 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 
 ------------------------------------------------------------------------
 
+### November 3rd Group Meeting
+
+- Meeting: []()
+
+### Extra Resources: Latent Profile Analysis (LPA)
+
+- Tutorial: []()
+- Repository: []()
+
+------------------------------------------------------------------------
+
 Helpful Links:
 
 -   Please [visit our website](https://mm4dbers.education.ucsb.edu/) to learn more.
