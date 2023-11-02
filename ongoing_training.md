@@ -51,7 +51,7 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 
 ### November 3rd Group Meeting
 
-- Meeting: []()
+- Meeting: [Slides](https://drive.google.com/file/d/1QYdBuFT0gy7cDileShnpOI50tZPdoKp5/view?usp=drive_link)
 
 ### Extra Resources: Latent Profile Analysis (LPA)
 
