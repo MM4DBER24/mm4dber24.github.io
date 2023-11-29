@@ -59,7 +59,15 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 - Tutorial handout: [Intro_to_LPA](https://mm4dber.github.io/Intro_to_LPA.html)
 - Repository: [Intro_to_LPA](https://github.com/MM4DBER/Intro_to_LPA)
 
-  
+------------------------------------------------------------------------
+
+### December 1st Group Meeting 
+
+- Meeting (LTA in R code-along): [Handout]()
+- Repository materials: [Download Here](https://github.com/MM4DBER/Intro-to-LTA)
+
+- Video recording: 
+
 
 ------------------------------------------------------------------------
 
