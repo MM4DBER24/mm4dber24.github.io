@@ -66,7 +66,7 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 - Meeting (LTA in R code-along): [Handout](https://mm4dber.github.io/Intro-to-LTA.html)
 - Repository materials: [Download Here](https://github.com/MM4DBER/Intro-to-LTA)
 
-- Video recording: 
+- Video recording: [HERE](https://drive.google.com/file/d/1BNxzfdCw_StCX4PJvr9dTgUf5G2AYDSF/view?usp=sharing)
 
 
 ------------------------------------------------------------------------
