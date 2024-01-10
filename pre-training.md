@@ -18,7 +18,7 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 
 ------------------------------------------------------------------------
 
-### Day 1 (August 31, 2023): Introductions, training goals, introduction to mixture modeling
+### Day 1 (May 17, 2024): Introductions, training goals, introduction to mixture modeling
 
 #### Learning Outcomes:
    1. Identify why research goals and aims (not research questions) are more appropriate for mixture models
@@ -63,7 +63,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 ------------------------------------------------------------------------
 
-### Day 2 (September 1, 2023): Introduction to Mixtures
+### Day 2 (May 24, 2024): Introduction to Mixtures
 
 #### Learning Outcomes:
    1. Identify the advantages of using mixture modeling
@@ -83,7 +83,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 ------------------------------------------------------------------------
 
-### Day 3 (September 2, 2023): Introduction to Latent Class Analysis
+### Day 3 (May 31, 2024): Introduction to Latent Class Analysis
 
 #### Learning Outcomes:
 1. Construct a path diagram for mixture models
@@ -108,7 +108,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 ------------------------------------------------------------------------
 
-### Day 4 (September 7, 2023): Review of Logistic Regression
+### Day 4 (June 7, 2024): Review of Logistic Regression
 
 **Learning Outcomes:**
    1. Identify why it is relevant to use logistic regression in mixture modeling
@@ -133,7 +133,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 ------------------------------------------------------------------------
 
-### Day 5 (September 11, 2023): R, RStudio and MplusAutomation
+### Day 5 (June 14, 2024): R, RStudio and MplusAutomation
 
 **Learning Outcomes:**
 1.  Using Mplus software, fellows the basic skeleton of a Mplus input (*.inp*) syntax, run basic descriptive statistics, and evaluate output (*.out*)
