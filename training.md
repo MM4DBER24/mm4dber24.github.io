@@ -20,7 +20,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ------------------------------------------------------------------------
 
-### Day 1 Training (September 14, 2023): Introduction to the Latent Class Analysis (LCA) Model
+### Day 1 Training (August 23, 2024): Introduction to the Latent Class Analysis (LCA) Model
 
 
 #### Learning Outcomes:
@@ -48,7 +48,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
  
 ------------------------------------------------------------------------
 
-### Day 2 Training (September 18, 2023): 
+### Day 2 Training (August 30, 2024): 
 
 #### Learning Outcomes:
 
@@ -73,7 +73,7 @@ Activity 1:
 
 ------------------------------------------------------------------------
 
-### Day 3 Training (September 21, 2023): 
+### Day 3 Training (September 6, 2024): 
 
 #### Learning Outcomes:
 
@@ -98,7 +98,7 @@ Activity 1:
 
 ------------------------------------------------------------------------
 
-### Day 4 Training (September 25, 2023): 
+### Day 4 Training (September 13, 2024): 
 
 #### Learning Outcomes:
 
@@ -129,7 +129,7 @@ Activity 1:
 
 ------------------------------------------------------------------------
 
-### Day 5 Training (September 28, 2023): 
+### Day 5 Training (September 20, 2024): 
 
 
 #### Learning Outcomes:
