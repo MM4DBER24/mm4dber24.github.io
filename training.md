@@ -16,7 +16,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 </p>
 
-#### "Parking Lot" document with questions and answers [HERE](https://docs.google.com/document/d/1z03OZAadBO7o2oAV9QtbCricSdPopCwNOV5lXmqziXY/edit?usp=sharing)
+#### "Parking Lot" document with questions and answers [HERE]()
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,8 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 #### Synchronous Activity:
 
-- Slide deck [here](https://drive.google.com/file/d/1feG8B-REsBLu7ZIzMBUXyP9Tfl-db6CR/view?usp=sharing)
+- Slide deck [here](https://docs.google.com/presentation/d/1ri0vMkUIxC9OIhROOs-cVxD_AxJH8CgGu1WR1hDBOQ8/edit?usp=drive_link)
+- Workspace [here](https://docs.google.com/presentation/d/1gaM-D9G0DW-But2nWEyambHJXvE5sYMtmO9Uu2pIdvc/edit?usp=drive_link)
 
 #### Asynchronous Activity:
 
@@ -42,9 +43,9 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 - **Activity 2 (optional)**: This introductory paper on LCA may be a helpful read [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
 
-[Training Day 1 Video](https://drive.google.com/file/d/1f4MkAslkuX8064GE4g3VjtaCIm-xJFFj/view?usp=sharing)
+[Training Day 1 Video]()
 
-[Anonymous Feedback Survey](https://forms.gle/Nq7xaV2zobq3VmPE6)
+[Anonymous Feedback Survey]()
  
 ------------------------------------------------------------------------
 
@@ -58,18 +59,18 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 #### Synchronous Activity:
 
-- Slide deck [here](https://drive.google.com/file/d/1lh29-QfKppkDeDK2VChHZt-X6DgVudMl/view?usp=sharing)
+- Slide deck [here](https://docs.google.com/presentation/d/1sb5rdzntzvmAZssO2eKbrPAgnCSXEVP4RFnpNgj-It8/edit?usp=drive_link)
 
 #### Asynchronous Activity:
 
 Activity 1: 
-- Watch this code-along video and follow along in Rstudio: [Video](https://www.youtube.com/watch?v=fPpcScLZFRI)
+- Watch this code-along video and follow along in Rstudio: [Video]()
 - Tutorial handout: [Link here](https://mm4dber.github.io/Intro_to_LCA.html)
 - Download the Github repository here: [Intro_to_LCA](https://github.com/MM4DBER/Intro_to_LCA)
 
-[Training Day 2 Video](https://drive.google.com/file/d/1ryrIj2hYSmPT8TVVi_F6W45g_bOl_Pdk/view?usp=sharing)
+[Training Day 2 Video]()
 
-[Anonymous Feedback Survey](https://forms.gle/Q7CWTctepKFNho4a7)
+[Anonymous Feedback Survey]()
 
 ------------------------------------------------------------------------
 
@@ -84,7 +85,7 @@ Activity 1:
 
 #### Synchronous Activity:
 
-- Slide deck [here](https://drive.google.com/file/d/1Mx4_m2KZgwIxvoPlLFKiB_UK9LSiYgIp/view?usp=sharing)
+- Slide deck [here](https://docs.google.com/presentation/d/1HHGBbeNNIjNUzlwqckXrXiQ-roMpe6L2OBrI_D_14ks/edit?usp=drive_link)
 
 #### Asynchronous Activity:
 
@@ -92,9 +93,9 @@ Activity 1:
 - Finish the code-along activity from day-2: We recommend reviewing sections of the video that were covered today (I.e., the enumeration table, IC plot, classification diagnostics table, and response pattern table).
 - Review the [10 FAQs in LCA article](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing) if you haven’t done so already.
 
-[Training Day 3 Video](https://drive.google.com/file/d/1t7OnVbrsdQQXK6x_vJo0qRce6x8W41fj/view?usp=drive_link)
+[Training Day 3 Video]()
 
-[Anonymous Feedback Survey](https://forms.gle/HR4Y6Ug7Wsx8Usth7)
+[Anonymous Feedback Survey]()
 
 ------------------------------------------------------------------------
 
@@ -108,7 +109,7 @@ Activity 1:
 
 #### Synchronous Activity:
 
-- Slide deck [Here](https://drive.google.com/file/d/1yt-ySTR40yAJxibd0QdKjclN_yT2fsI0/view?usp=sharing)
+- Slide deck [Here](https://docs.google.com/presentation/d/1fgshzpV5d1E8NmN4O3p9wDhl5yreRugP3zUnnhd_Wxw/edit?usp=drive_link)
 - Mplus output file example: [c4_covariate_only.out](https://drive.google.com/file/d/1DZNZ2DFY-oRwAu1OJecb_TDXgUacSD5J/view?usp=sharing)
 
 #### Asynchronous Activity:
@@ -123,9 +124,9 @@ Activity 1:
 - Tutorial handout: [Link here](https://mm4dber.github.io/interpret-aux-vars.html)
 - Download the Github repository here: [Interpretation of auxiliary variables](https://github.com/MM4DBER/auxiliary-variables)
 
-[Training Day 4 Video](https://drive.google.com/file/d/1tS0l5BbGPlfDS0QxFkf3uH37qenTmg-U/view?usp=sharing)
+[Training Day 4 Video]()
 
-[Anonymous Feedback Survey](https://forms.gle/DTGxVSoMS65x5DDNA)
+[Anonymous Feedback Survey]()
 
 ------------------------------------------------------------------------
 
@@ -141,10 +142,10 @@ Activity 1:
 
 #### Synchronous Activity:
 
-- Slide deck [here](https://drive.google.com/file/d/1phquApGsfFJoREJJpVepKA_8HqkUkeUm/view?usp=sharing)
+- Slide deck [here](https://docs.google.com/presentation/d/1-1tcKBrUVDK4gO-PJ8VLnFVLchLA76W25qt4kqQVsyM/edit?usp=drive_link)
 - Feedback document [here](https://docs.google.com/document/d/19yAyjR7Nu9br81kG3LuURncwrkN7ll3uXEh_r9u9iMg/edit?usp=sharing)
 
-[Training Day 5 Video](https://drive.google.com/file/d/1zX_1TloKZMXt1IEULKhJlHEYwSCmhQu0/view?usp=sharing)
+[Training Day 5 Video]()
 
 
 ------------------------------------------------------------------------
