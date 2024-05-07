@@ -11,7 +11,7 @@
 
 - - -
 
-## Pre-training materials page: [HERE](https:/mm4dber24.github.io/pre-training)
+## Pre-training materials page: [HERE](https://mm4dber24.github.io/pre-training)
 
 - - -
 
