@@ -11,16 +11,16 @@
 
 - - -
 
-## Pre-training materials page: [HERE](https://mm4dber.github.io/pre-training)
+## Pre-training materials page: [HERE](https:/mm4dber24.github.io/pre-training)
 
 - - -
 
-## Training materials page:  [HERE](https://mm4dber.github.io/training)
+## Training materials page:  [HERE](https://mm4dber.github24.io/training)
 
 
 - - -
 
-## Ongoing training materials page:  [HERE](https://mm4dber.github.io/ongoing_training)
+## Ongoing training materials page:  [HERE](https://mm4dber.github24.io/ongoing_training)
 
 - - -
 
