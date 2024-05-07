@@ -27,13 +27,13 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 
       
 #### Synchronous Activity:
-* [Slide deck here](https://drive.google.com/file/d/1SMNE73IExOvN8a37Fhdp4WFXOn0B0yCG/view?usp=drive_link)
-* [Workspace here](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing)
+* [Slide deck here](https://docs.google.com/presentation/d/11eiGJOPPoNxe46g7NzzRkEklfZCVi1vgQIWFKxKnILc/edit?usp=drive_link)
+* [Workspace here](https://docs.google.com/presentation/d/1NErw8TuQBPNF8582-j_s2nNeMDq97k2rW_zbEpilmPE/edit?usp=drive_link)
 
 
 **Asynchronous Activity:**
 
-- **Activity 1:** Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1kytKOsYUnLkDNKrLTAuFemJL1W0z2g7jGWWZNb-Ggko/edit?usp=sharing) 
+- **Activity 1:** Create a draft of your research goals (starting on slide 9 of the [Workspace](https://docs.google.com/presentation/d/1NErw8TuQBPNF8582-j_s2nNeMDq97k2rW_zbEpilmPE/edit?usp=drive_link) 
 
 - **Activity 2:** Install: R, RStudio, MPlus, MplusAutomation, R-packages
 
@@ -53,12 +53,12 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 **If you need help, drop into office hours. Book an appointment** [HERE](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3L705-GH2ItnQeObwi2sK7iSyO1odpQwC3AGcPoIG9PZnBIQ4izoYfDsUGD9rzPOefB-0uBYmK)
 
-[Anonymous Feedback Survey: Day 1](https://docs.google.com/forms/d/e/1FAIpQLSdi93kIAX4pefUS2sRtGPOPqx9F4sYnx5suDSpLo0G9ZO2U1A/viewform)
+[Anonymous Feedback Survey: Day 1]()
 
 
-[Pre-Training Day 1 Video](https://drive.google.com/file/d/1up3venhsXZ-6_qGmUpPAkle4mJx83ZLP/view?usp=sharing)
+[Pre-Training Day 1 Video]()
 
-"Parking Lot" document with questions and answers [HERE](https://docs.google.com/document/d/1z03OZAadBO7o2oAV9QtbCricSdPopCwNOV5lXmqziXY/edit?usp=sharing)
+"Parking Lot" document with questions and answers [HERE]()
 
 
 ------------------------------------------------------------------------
@@ -70,16 +70,16 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
    2. Construct a person-centered research goal in a research topic that you are interested in   
 
 **Synchronous Activity:**
--   Slide deck [here](https://drive.google.com/file/d/163CHSSS-1CxQH_8iBUyMLzGtjJakFQjh/view?usp=sharing)
--   Workspace [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=drive_link)
+-   Slide deck [here](https://docs.google.com/presentation/d/11kbJW2rAvYUEftcpibbYCpe4Jvl0O212W4ZVJeTFYMM/edit?usp=drive_link)
+-   Workspace [here](https://docs.google.com/presentation/d/18nSPb1_Z2wDxF1lI2YujZ5W153P_zTxlSUF5xxM2qwU/edit?usp=drive_link)
 
 **Asynchronous Activity:**
--   Activity 1:  Linking theory to your person-centered research goal (starting on slide 34 [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=sharing))
--   Activity 2:  Read mixture modeling article (starting on slide 47 [here](https://docs.google.com/presentation/d/1DSpx3UK71lh64mYBEcXZiZ5U9tghT18eNCaSpq9YPNk/edit?usp=sharing))
+-   Activity 1:  Linking theory to your person-centered research goal (starting on slide 34 [here](https://docs.google.com/presentation/d/18nSPb1_Z2wDxF1lI2YujZ5W153P_zTxlSUF5xxM2qwU/edit?usp=drive_link))
+-   Activity 2:  Read mixture modeling article (starting on slide 47)
    
-[Anonymous Feedback Survey: Day 2](https://docs.google.com/forms/u/3/d/e/1FAIpQLSfU9ffW7Hn0t8OHRGOthOSUqcCvE8p6zMgxVeq0mkvIsbfQzg/viewform?usp=sf_link)
+[Anonymous Feedback Survey: Day 2]()
 
-[Pre-Training Day 2 Video](https://drive.google.com/file/d/1YpOSOCJUGuJASrfIIrF-VWkIhV_KdlYJ/view?usp=sharing)
+[Pre-Training Day 2 Video]()
 
 ------------------------------------------------------------------------
 
@@ -90,11 +90,11 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 2. Connect research goals and theory to a path diagram
 
 **Synchronous Activity:**
--   Updated Slide deck [here](https://drive.google.com/file/d/1G4hfqPo_pO75deIp-U2ST-E0I8H2NVUu/view?usp=sharing)
--   Workspace [here](https://docs.google.com/presentation/d/1t5QFkVq73hfMS2NlaeHiUNGWDyoHMrptuAD3ht-CwPI/edit?usp=drive_l)
+-   Slide deck [here](https://docs.google.com/presentation/d/1xS0c5zYUaP6k2F9obrwNl5vFOcbwn0R3LvLFoXTVuAY/edit?usp=drive_link)
+-   Workspace [here](https://docs.google.com/presentation/d/1Gfs4hXsFJAxiLcB__MKOJaMXS3FlamOkVXysfzwJpgc/edit?usp=drive_link)
 
 **Asynchronous Activity:**
-1. Read mixture modeling artice from Day 2, activity 2. Using the [workspace slide deck](https://docs.google.com/presentation/d/1t5QFkVq73hfMS2NlaeHiUNGWDyoHMrptuAD3ht-CwPI/edit?usp=drive_l), answer questions related to the article. We will discuss these at the start of day 4.
+1. Read mixture modeling artice from Day 2, activity 2. Using the [workspace slide deck](https://docs.google.com/presentation/d/1Gfs4hXsFJAxiLcB__MKOJaMXS3FlamOkVXysfzwJpgc/edit?usp=drive_link), answer questions related to the article. We will discuss these at the start of day 4.
 2. To help with the review of logistic regression, watch these videos:
 
 - [Odds Ratio Review Video](https://www.youtube.com/watch?v=8nm0G-1uJzA)
@@ -117,19 +117,19 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
    4. Identify the importance of multinomial logistic regression in the context of LCA (What is it & why do we care?)
 
 **Synchronous Activity:**
--   Slide deck [here](https://drive.google.com/file/d/1_lOT4SpHGS-vo0yFd3zqS3hj15M16zOL/view?usp=drive_link)
+-   Slide deck [here](https://docs.google.com/presentation/d/16G3lL8QPrtN3RLEqL8_aqjsr9BxsR184QG1mw9dg1PA/edit?usp=drive_link)
 -   [Fermant et al. (2021) article](https://drive.google.com/file/d/17l-8Tki9OgC1NVt_ga0WKpq38dpQWDJb/view?usp=sharing)
--   Workspace [here](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
+-   Workspace [here](https://docs.google.com/presentation/d/1EQndHXWx8Z72I9OSrCUS8QTo1iRw8jARYj1pqkNqu6U/edit?usp=drive_link)
     
 **Asynchronous Activity:**
-- Activity 1: Interpret logistic regression output from Mplus output file - [Slide 17 Workspace](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
-- Activity 2: Review videos explaining odds ratios, conditional probabilities, and chi square tests (Optional; as needed) - [Slide 29 Workspace](https://docs.google.com/presentation/d/1cqPKjGU4sPYt7SCXcxVrHP5IOSlRoHcdj0Z-Yc-v5JE/edit?usp=drive_link)
-- Video (Multinominal logistic regression, finishing slides we did not get to): [Here](https://drive.google.com/file/d/1ez7jzXemsWlFp2daq87GKMvJNay9Ev4s/view?usp=sharing)
-- Video - Synchronous activity solution ("Activity 2"; not covered in class): [Here](https://drive.google.com/file/d/1zu24HoEgiM_7ZgJpDmPHzLd19H54EIl3/view?usp=sharing)
+- Activity 1: Interpret logistic regression output from Mplus output file - [Slide 17 Workspace](https://docs.google.com/presentation/d/1EQndHXWx8Z72I9OSrCUS8QTo1iRw8jARYj1pqkNqu6U/edit?usp=drive_link)
+- Activity 2: Review videos explaining odds ratios, conditional probabilities, and chi square tests (Optional; as needed) - [Slide 29 Workspace](https://docs.google.com/presentation/d/1EQndHXWx8Z72I9OSrCUS8QTo1iRw8jARYj1pqkNqu6U/edit?usp=drive_link)
+- Video (Multinominal logistic regression): [Here](https://drive.google.com/file/d/1ez7jzXemsWlFp2daq87GKMvJNay9Ev4s/view?usp=sharing)
+- Video - Synchronous activity solution ("Activity 2"): [Here](https://drive.google.com/file/d/1zu24HoEgiM_7ZgJpDmPHzLd19H54EIl3/view?usp=sharing)
   
-[Anonymous Feedback Survey: Day 4](https://docs.google.com/forms/d/e/1FAIpQLSfSQRtVzbaU1nq1guSKkOPZSCSGjK2nGOscDimoOktPRd9qsg/viewform?usp=sf_link)
+[Anonymous Feedback Survey: Day 4]()
 
-[Pre-Training Day 4 Video](https://drive.google.com/file/d/1FcoFLi19mJpTNWkbybtJcO_CFw4FRz6p/view?usp=sharing)
+[Pre-Training Day 4 Video]()
 
 ------------------------------------------------------------------------
 
@@ -147,8 +147,8 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 [Intro to MplusAutomation](https://drive.google.com/file/d/1WEb0BLldZ3lAMbLEdAtNw2h0vV0CSjus/view?usp=drive_link) 
 
 **Synchronous Activity:**
--   Slide deck [here](https://drive.google.com/file/d/1Vudm3MHlqri7HX-B20Vh1FFnQJLY6YPp/view?usp=sharing)
--   Workspace [here](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/edit?usp=drive_link)
+-   Slide deck [here](https://docs.google.com/presentation/d/1dYmgDXltQwekMzldyKt18Xj9zGXUoKG_DONwPimiYto/edit?usp=drive_link)
+-   Workspace [here](https://docs.google.com/presentation/d/1LwWTu6NUwAYLcAPQ2l5Ejy0BmOz5hurscoKbsYc5Iyc/edit?usp=drive_link)
 
 **Asynchronous Activity:**
 - Activity 1: Practice with R/R Studio, Mplus and MplusAutomation - [Slide 3 Workspace](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/edit?usp=drive_link)
@@ -157,9 +157,9 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 Resources:
 - [Mplus Operartion Handout - Syntax Rules](https://drive.google.com/file/d/144EgbJH4g2bduGmg-S24RQ9cBqn9KNRM/view?usp=drive_link)
 
-[Anonymous Feedback Survey: Day 5](https://docs.google.com/forms/d/e/1FAIpQLSd3FA_3AiiBmoSCPwdQecHMCmK66Au2wJayKTHwSpqkyD1Eyw/viewform?usp=sf_link)
+[Anonymous Feedback Survey: Day 5]()
 
-[Pre-Training Day 5 Video](https://drive.google.com/file/d/1UH4otrk7CAoXlzO8WeZDAMy3gxLFed3M/view?usp=sharing)
+[Pre-Training Day 5 Video]()
 
 ------------------------------------------------------------------------
 
