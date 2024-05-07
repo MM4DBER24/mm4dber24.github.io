@@ -15,12 +15,12 @@
 
 - - -
 
-## Training materials page:  [HERE](https://mm4dber.github24.io/training)
+## Training materials page:  [HERE](https://mm4dber24.github.io/training)
 
 
 - - -
 
-## Ongoing training materials page:  [HERE](https://mm4dber.github24.io/ongoing_training)
+## Ongoing training materials page:  [HERE](https://mm4dber24.github.io/ongoing_training)
 
 - - -
 
