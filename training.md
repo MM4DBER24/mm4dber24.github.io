@@ -45,7 +45,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 [Training Day 1 Video]()
 
-[Anonymous Feedback Survey]()
+[Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSfzfwBPdfuYO5PSjPaGjuKmiBPCMLWKqnaa64mvEqDe0iM3IA/viewform?usp=sharing)
  
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ Activity 1:
 
 [Training Day 2 Video]()
 
-[Anonymous Feedback Survey]()
+[Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSc9GByoyjomy4t1XrWFXtCPF1ybnvQf4yC8soCWn_RDg2vjgg/viewform?usp=sharing)
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ Activity 1:
 
 [Training Day 3 Video]()
 
-[Anonymous Feedback Survey]()
+[Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSe5Sb2gfizj1iai5Ij12kzCan4lYTdSM9OPtcMbRjd1Lzo5fA/viewform?usp=sharing)
 
 ------------------------------------------------------------------------
 
@@ -126,7 +126,7 @@ Activity 1:
 
 [Training Day 4 Video]()
 
-[Anonymous Feedback Survey]()
+[Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSdMp67Y-KP8eMvA_sJAeQkdCTnMvrNsWrSiAiWdZGG8UEgZew/viewform?usp=sharing)
 
 ------------------------------------------------------------------------
 
@@ -147,6 +147,7 @@ Activity 1:
 
 [Training Day 5 Video]()
 
+[Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSchBfZc8bxNw-BTvjGcCJ5sSJKBYzI4Av5mfJl0JG0TtdqSeg/viewform?usp=sharing)
 
 ------------------------------------------------------------------------
 
