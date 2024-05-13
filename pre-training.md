@@ -101,7 +101,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 - [Conditional Probabilities and Contingency Tables](https://www.youtube.com/watch?v=Tat_2NX2I_M&list=WL&index=3&t=122s)
    
 
-[Anonymous Feedback Survey: Day 3](https://docs.google.com/forms/d/e/1FAIpQLSemkITi05PjWKu8k94eCiJ3FkkVmjs0adLFRe4YX4IlGaW1Gw/viewform?usp=sf_link)
+[Anonymous Feedback Survey: Day 3](https://docs.google.com/forms/d/e/1FAIpQLSe5Sb2gfizj1iai5Ij12kzCan4lYTdSM9OPtcMbRjd1Lzo5fA/viewform?usp=sharing)
 
 [Pre-Training Day 3 Video](https://drive.google.com/file/d/1pdMCI6Jlclf7fnKYoETZjQfSeBFri5YC/view?usp=sharing)
 
