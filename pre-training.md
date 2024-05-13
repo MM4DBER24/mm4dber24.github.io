@@ -53,7 +53,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 **If you need help, drop into office hours. Book an appointment** [HERE](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3L705-GH2ItnQeObwi2sK7iSyO1odpQwC3AGcPoIG9PZnBIQ4izoYfDsUGD9rzPOefB-0uBYmK)
 
-[Anonymous Feedback Survey: Day 1]()
+[Anonymous Feedback Survey: Day 1](https://docs.google.com/forms/d/e/1FAIpQLSf_KClycv-WVg0vxb84GArzUNXgADgpSuytOft8037A2yEKnQ/viewform)
 
 
 [Pre-Training Day 1 Video]()
@@ -77,7 +77,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 -   Activity 1:  Linking theory to your person-centered research goal (starting on slide 34 [here](https://docs.google.com/presentation/d/18nSPb1_Z2wDxF1lI2YujZ5W153P_zTxlSUF5xxM2qwU/edit?usp=drive_link))
 -   Activity 2:  Read mixture modeling article (starting on slide 47)
    
-[Anonymous Feedback Survey: Day 2]()
+[Anonymous Feedback Survey: Day 2](https://docs.google.com/forms/d/e/1FAIpQLSfsXJ7ehY9fmYBXAX1YRPdDFT5RNgn9ciHCVaClFFIvc4Bnlg/viewform?usp=sharing)
 
 [Pre-Training Day 2 Video]()
 
@@ -127,7 +127,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 - Video (Multinominal logistic regression): [Here](https://drive.google.com/file/d/1ez7jzXemsWlFp2daq87GKMvJNay9Ev4s/view?usp=sharing)
 - Video - Synchronous activity solution ("Activity 2"): [Here](https://drive.google.com/file/d/1zu24HoEgiM_7ZgJpDmPHzLd19H54EIl3/view?usp=sharing)
   
-[Anonymous Feedback Survey: Day 4]()
+[Anonymous Feedback Survey: Day 4](https://docs.google.com/forms/d/e/1FAIpQLScUzFioZCnX9x4nOTTOxgT7m4X_if-vjsqTIAi7HbvSCkhogg/viewform?usp=sharing)
 
 [Pre-Training Day 4 Video]()
 
@@ -157,7 +157,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 Resources:
 - [Mplus Operartion Handout - Syntax Rules](https://drive.google.com/file/d/144EgbJH4g2bduGmg-S24RQ9cBqn9KNRM/view?usp=drive_link)
 
-[Anonymous Feedback Survey: Day 5]()
+[Anonymous Feedback Survey: Day 5](https://docs.google.com/forms/d/e/1FAIpQLSeazUL_9ABj0d0WO4V4cmjhvqzTxU14a7ka5hbuClt3OiWNpA/viewform?usp=sharing)
 
 [Pre-Training Day 5 Video]()
 
