@@ -74,7 +74,9 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 **Asynchronous Activity:**
 -   Activity 1:  Linking theory to your person-centered research goal (starting on slide 34 [here](https://docs.google.com/presentation/d/18nSPb1_Z2wDxF1lI2YujZ5W153P_zTxlSUF5xxM2qwU/edit?usp=drive_link))
--   Activity 2:  Read mixture modeling article (starting on slide 47)
+-   Activity 2:  Read these mixture modeling article (starting on slide 44)
+  -  Paper 1: [Identifying Faculty and Peer Interaction Patterns of First-Year Biology Doctoral Students: A Latent Class Analysis](https://drive.google.com/file/d/10k5d9T55tmw0pR_7-oOokmn3TLeQYU2I/view)
+  -  Paper 2: [From Comprehensive to Singular: A Latent Class Analysis of College Teaching Practices](https://drive.google.com/file/u/3/d/1l-jcxqZvC6u8objLS-l0lAYYPIH1laUS/view?usp=drive_link)
    
 [Anonymous Feedback Survey: Day 2](https://docs.google.com/forms/d/e/1FAIpQLSfsXJ7ehY9fmYBXAX1YRPdDFT5RNgn9ciHCVaClFFIvc4Bnlg/viewform?usp=sharing)
 
