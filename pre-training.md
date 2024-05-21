@@ -91,7 +91,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 2. Connect research goals and theory to a path diagram
 
 **Synchronous Activity:**
--   Slide deck [here](https://docs.google.com/presentation/d/1xS0c5zYUaP6k2F9obrwNl5vFOcbwn0R3LvLFoXTVuAY/edit?usp=drive_link)
+-   Slide deck [here]()
 -   Workspace [here](https://docs.google.com/presentation/d/1Gfs4hXsFJAxiLcB__MKOJaMXS3FlamOkVXysfzwJpgc/edit?usp=drive_link)
 
 **Asynchronous Activity:**
@@ -118,7 +118,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
    4. Identify the importance of multinomial logistic regression in the context of LCA (What is it & why do we care?)
 
 **Synchronous Activity:**
--   Slide deck [here](https://docs.google.com/presentation/d/16G3lL8QPrtN3RLEqL8_aqjsr9BxsR184QG1mw9dg1PA/edit?usp=drive_link)
+-   Slide deck [here]()
 -   [Fermant et al. (2021) article](https://drive.google.com/file/d/17l-8Tki9OgC1NVt_ga0WKpq38dpQWDJb/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/1EQndHXWx8Z72I9OSrCUS8QTo1iRw8jARYj1pqkNqu6U/edit?usp=drive_link)
     
@@ -148,7 +148,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 [Intro to MplusAutomation](https://drive.google.com/file/d/1WEb0BLldZ3lAMbLEdAtNw2h0vV0CSjus/view?usp=drive_link) 
 
 **Synchronous Activity:**
--   Slide deck [here](https://docs.google.com/presentation/d/1dYmgDXltQwekMzldyKt18Xj9zGXUoKG_DONwPimiYto/edit?usp=drive_link)
+-   Slide deck [here]()
 -   Workspace [here](https://docs.google.com/presentation/d/1LwWTu6NUwAYLcAPQ2l5Ejy0BmOz5hurscoKbsYc5Iyc/edit?usp=drive_link)
 
 **Asynchronous Activity:**
