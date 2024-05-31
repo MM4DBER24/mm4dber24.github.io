@@ -80,7 +80,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
    
 [Anonymous Feedback Survey: Day 2](https://docs.google.com/forms/d/e/1FAIpQLSfsXJ7ehY9fmYBXAX1YRPdDFT5RNgn9ciHCVaClFFIvc4Bnlg/viewform?usp=sharing)
 
-[Pre-Training Day 2 Video]()
+[Pre-Training Day 2 Video](https://drive.google.com/file/d/1-5kQdblq3-st3bu_4xK3h4W8zcbUjrBI/view?usp=sharing)
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 2. Connect research goals and theory to a path diagram
 
 **Synchronous Activity:**
--   Slide deck [here]()
+-   Slide deck [here](https://drive.google.com/file/d/1VOsWIfcMMwGzte62q-HovdE_1oDPdlx0/view?usp=drive_link)
 -   Workspace [here](https://docs.google.com/presentation/d/1Gfs4hXsFJAxiLcB__MKOJaMXS3FlamOkVXysfzwJpgc/edit?usp=drive_link)
 
 **Asynchronous Activity:**
@@ -105,7 +105,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 [Anonymous Feedback Survey: Day 3](https://docs.google.com/forms/d/e/1FAIpQLSe5Sb2gfizj1iai5Ij12kzCan4lYTdSM9OPtcMbRjd1Lzo5fA/viewform?usp=sharing)
 
-[Pre-Training Day 3 Video](https://drive.google.com/file/d/1pdMCI6Jlclf7fnKYoETZjQfSeBFri5YC/view?usp=sharing)
+[Pre-Training Day 3 Video]()
 
 ------------------------------------------------------------------------
 
