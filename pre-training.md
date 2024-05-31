@@ -95,7 +95,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 -   Workspace [here](https://docs.google.com/presentation/d/1Gfs4hXsFJAxiLcB__MKOJaMXS3FlamOkVXysfzwJpgc/edit?usp=drive_link)
 
 **Asynchronous Activity:**
-1. Read mixture modeling artice from Day 2, activity 2. Using the [workspace slide deck](https://docs.google.com/presentation/d/1Gfs4hXsFJAxiLcB__MKOJaMXS3FlamOkVXysfzwJpgc/edit?usp=drive_link), answer questions related to the article. We will discuss these at the start of day 4.
+1. Create a path diagram for a research topic that you are interested in (starting on [slide 16 here](https://docs.google.com/presentation/d/1Gfs4hXsFJAxiLcB__MKOJaMXS3FlamOkVXysfzwJpgc/edit?usp=drive_link))
 2. To help with the review of logistic regression, watch these videos:
 
 - [Odds Ratio Review Video](https://www.youtube.com/watch?v=8nm0G-1uJzA)
@@ -105,7 +105,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 [Anonymous Feedback Survey: Day 3](https://docs.google.com/forms/d/e/1FAIpQLSe5Sb2gfizj1iai5Ij12kzCan4lYTdSM9OPtcMbRjd1Lzo5fA/viewform?usp=sharing)
 
-[Pre-Training Day 3 Video]()
+[Pre-Training Day 3 Video](https://drive.google.com/file/d/1NLf8tHOLPik6yGQmaIwT5Eg4CH2sZPfI/view?usp=drive_link)
 
 ------------------------------------------------------------------------
 
@@ -125,8 +125,6 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 **Asynchronous Activity:**
 - Activity 1: Interpret logistic regression output from Mplus output file - [Slide 17 Workspace](https://docs.google.com/presentation/d/1EQndHXWx8Z72I9OSrCUS8QTo1iRw8jARYj1pqkNqu6U/edit?usp=drive_link)
 - Activity 2: Review videos explaining odds ratios, conditional probabilities, and chi square tests (Optional; as needed) - [Slide 29 Workspace](https://docs.google.com/presentation/d/1EQndHXWx8Z72I9OSrCUS8QTo1iRw8jARYj1pqkNqu6U/edit?usp=drive_link)
-- Video (Multinominal logistic regression): [Here](https://drive.google.com/file/d/1ez7jzXemsWlFp2daq87GKMvJNay9Ev4s/view?usp=sharing)
-- Video - Synchronous activity solution ("Activity 2"): [Here](https://drive.google.com/file/d/1zu24HoEgiM_7ZgJpDmPHzLd19H54EIl3/view?usp=sharing)
   
 [Anonymous Feedback Survey: Day 4](https://docs.google.com/forms/d/e/1FAIpQLScUzFioZCnX9x4nOTTOxgT7m4X_if-vjsqTIAi7HbvSCkhogg/viewform?usp=sharing)
 
