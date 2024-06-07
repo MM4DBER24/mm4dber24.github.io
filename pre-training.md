@@ -129,7 +129,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
   
 [Anonymous Feedback Survey: Day 4](https://docs.google.com/forms/d/e/1FAIpQLScUzFioZCnX9x4nOTTOxgT7m4X_if-vjsqTIAi7HbvSCkhogg/viewform?usp=sharing)
 
-[Pre-Training Day 4 Video]()
+[Pre-Training Day 4 Video](https://drive.google.com/file/d/1JFzE8rA1cPjfguOK6KficMKtqlgoYzC-/view?usp=sharing)
 
 ------------------------------------------------------------------------
 
