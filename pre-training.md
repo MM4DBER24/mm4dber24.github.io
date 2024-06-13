@@ -147,7 +147,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 [Intro to MplusAutomation](https://drive.google.com/file/d/1WEb0BLldZ3lAMbLEdAtNw2h0vV0CSjus/view?usp=drive_link) 
 
 **Synchronous Activity:**
--   Slide deck [here]()
+-   Slide deck [here](https://drive.google.com/file/d/1_Hf9Bazq8uNooorDiuZ8MzO2bh83Zbus/view?usp=sharing)
 -   Workspace [here](https://docs.google.com/presentation/d/1LwWTu6NUwAYLcAPQ2l5Ejy0BmOz5hurscoKbsYc5Iyc/edit?usp=drive_link)
 
 **Asynchronous Activity:**
