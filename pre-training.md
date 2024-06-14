@@ -155,7 +155,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 - Activity 2:  Identify and share an article on mixture modeling - [Slide 5 Workspace](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/edit?usp=drive_link)
 
 Resources:
-- [Mplus Operartion Handout - Syntax Rules](https://drive.google.com/file/d/144EgbJH4g2bduGmg-S24RQ9cBqn9KNRM/view?usp=drive_link)
+- Mplus Operartion Handout: [Syntax Rules](https://drive.google.com/file/d/144EgbJH4g2bduGmg-S24RQ9cBqn9KNRM/view?usp=drive_link)
 
 [Anonymous Feedback Survey: Day 5](https://docs.google.com/forms/d/e/1FAIpQLSeazUL_9ABj0d0WO4V4cmjhvqzTxU14a7ka5hbuClt3OiWNpA/viewform?usp=sharing)
 
