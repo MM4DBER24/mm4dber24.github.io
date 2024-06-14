@@ -148,7 +148,7 @@ NOTE: It is highly recommended that you watch the full videos before day 5 of pr
 
 **Synchronous Activity:**
 -   Slide deck [here](https://drive.google.com/file/d/1_Hf9Bazq8uNooorDiuZ8MzO2bh83Zbus/view?usp=sharing)
--   Workspace [here](https://docs.google.com/presentation/d/1LwWTu6NUwAYLcAPQ2l5Ejy0BmOz5hurscoKbsYc5Iyc/edit?usp=drive_link)
+-   Workspace [here](https://docs.google.com/presentation/d/1LwWTu6NUwAYLcAPQ2l5Ejy0BmOz5hurscoKbsYc5Iyc/edit?usp=sharing)
 
 **Asynchronous Activity:**
 - Activity 1: Practice with R/R Studio, Mplus and MplusAutomation - [Slide 3 Workspace](https://docs.google.com/presentation/d/17ZPEsW9lN4redleXYY34dJZajlBdFd-p07aQfKFUUFs/edit?usp=drive_link)
