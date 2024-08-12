@@ -18,6 +18,8 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 #### "Parking Lot" document with questions and answers [HERE](https://docs.google.com/document/d/1CoSdG5s3WjrgsWGTbN4EjCVHERlOqCYHWY_WXN0UdYw/edit?usp=sharing)
 
+#### Office hour appointment link (Adam): [HERE](https://calendar.app.google/XqDLH4oHFRaHpsUbA)
+
 ------------------------------------------------------------------------
 
 ### Day 1 Training (August 23, 2024): Introduction to the Latent Class Analysis (LCA) Model
@@ -59,7 +61,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 #### Synchronous Activity:
 
-- Slide deck [here](https://docs.google.com/presentation/d/1sb5rdzntzvmAZssO2eKbrPAgnCSXEVP4RFnpNgj-It8/edit?usp=drive_link)
+- Slide deck [here]()
 
 #### Asynchronous Activity:
 
@@ -85,7 +87,7 @@ Activity 1:
 
 #### Synchronous Activity:
 
-- Slide deck [here](https://docs.google.com/presentation/d/1HHGBbeNNIjNUzlwqckXrXiQ-roMpe6L2OBrI_D_14ks/edit?usp=drive_link)
+- Slide deck [here]()
 
 #### Asynchronous Activity:
 
@@ -109,7 +111,7 @@ Activity 1:
 
 #### Synchronous Activity:
 
-- Slide deck [Here](https://docs.google.com/presentation/d/1fgshzpV5d1E8NmN4O3p9wDhl5yreRugP3zUnnhd_Wxw/edit?usp=drive_link)
+- Slide deck [Here]()
 - Mplus output file example: [c4_covariate_only.out](https://drive.google.com/file/d/1DZNZ2DFY-oRwAu1OJecb_TDXgUacSD5J/view?usp=sharing)
 
 #### Asynchronous Activity:
@@ -142,8 +144,8 @@ Activity 1:
 
 #### Synchronous Activity:
 
-- Slide deck [here](https://docs.google.com/presentation/d/1-1tcKBrUVDK4gO-PJ8VLnFVLchLA76W25qt4kqQVsyM/edit?usp=drive_link)
-- Feedback document [here](https://docs.google.com/document/d/19yAyjR7Nu9br81kG3LuURncwrkN7ll3uXEh_r9u9iMg/edit?usp=sharing)
+- Slide deck [here]()
+- Feedback document [here]()
 
 [Training Day 5 Video]()
 
