@@ -16,7 +16,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 </p>
 
-#### "Parking Lot" document with questions and answers [HERE]()
+#### "Parking Lot" document with questions and answers [HERE](https://docs.google.com/document/d/1CoSdG5s3WjrgsWGTbN4EjCVHERlOqCYHWY_WXN0UdYw/edit?usp=sharing)
 
 ------------------------------------------------------------------------
 
@@ -32,8 +32,8 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 #### Synchronous Activity:
 
-- Slide deck [here](https://docs.google.com/presentation/d/1ri0vMkUIxC9OIhROOs-cVxD_AxJH8CgGu1WR1hDBOQ8/edit?usp=drive_link)
-- Workspace [here](https://docs.google.com/presentation/d/1gaM-D9G0DW-But2nWEyambHJXvE5sYMtmO9Uu2pIdvc/edit?usp=drive_link)
+- Slide deck [here - Slides PDF to be added week of 9/19-23]()
+- Workspace [here]()
 
 #### Asynchronous Activity:
 
@@ -41,7 +41,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 > Answer key: [Questions & Answers](https://docs.google.com/document/d/1r1khPI-99uIamGRukCV_JJRGV7d5eBs0RlHQM7IPvZ0/edit?usp=sharing) , [Annotated Mplus Output](https://docs.google.com/document/d/1ettnt7BLu-8HPE-jxyIrfHa9CVerrqu_OzZXR2FIAuo/edit?usp=sharing)
 
-- **Activity 2 (optional)**: This introductory paper on LCA may be a helpful read [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
+- **Activity 2**: Review this introductory paper on LCA [here](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing)
 
 [Training Day 1 Video]()
 
