@@ -44,7 +44,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 - **Activity 2**: Review this introductory [paper](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing) on LCA and answer the questions found in this [guided reading exercise](https://docs.google.com/document/d/1KgjuS5w-7fwIHJ3wHUOfMzoQ7qImn4M9Tj7gLJNz4aU/copy?usp=drive_link)
 
-[Training Day 1 Video]()
+[Training Day 1 Video](https://drive.google.com/file/d/1JEXKmobgN2dBo8qdQArNHMzRnUAi0jSI/view?usp=sharing)
 
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSfzfwBPdfuYO5PSjPaGjuKmiBPCMLWKqnaa64mvEqDe0iM3IA/viewform?usp=sharing)
  
