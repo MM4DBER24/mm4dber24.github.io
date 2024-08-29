@@ -60,12 +60,12 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 #### Synchronous Activity:
 
-- Slide deck [here]()
+- Slide deck [here](https://drive.google.com/file/d/1yCaUaSnbrDV0-PlfYqgyMHdMLPhAjfsp/view?usp=sharing)
 
 #### Asynchronous Activity:
 
 Activity 1: 
-- Watch this code-along video and follow along in Rstudio: [Video]()
+- Watch this code-along video and follow along in Rstudio: [Video](https://www.youtube.com/watch?v=fPpcScLZFRI)
 - Tutorial handout: [Link here](https://mm4dber.github.io/Intro_to_LCA.html)
 - Download the Github repository here: [Intro_to_LCA](https://github.com/MM4DBER/Intro_to_LCA)
 
