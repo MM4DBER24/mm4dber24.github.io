@@ -86,13 +86,12 @@ Activity 1:
 
 #### Synchronous Activity:
 
-- Slide deck [here]()
+- Slide deck [here](https://drive.google.com/file/d/11igJJ6tADgmjOVnuPj7rvLh2As1Y5oeV/view?usp=sharing)
 
 #### Asynchronous Activity:
 
-- Review slides 36 - 72 on auxiliary variables that we did not get to in today’s training (recording).
-- Finish the code-along activity from day-2: We recommend reviewing sections of the video that were covered today (I.e., the enumeration table, IC plot, classification diagnostics table, and response pattern table).
-- Review the [10 FAQs in LCA article](https://drive.google.com/file/d/1WxZgDwvBdkL84rnxL6YF58KUDqOBtcyT/view?usp=sharing) if you haven’t done so already.
+- Handout [here](https://mm4dber24.github.io/Day3-Asynch-Handout.html)
+- Repository [here](https://github.com/MM4DBER24/Day3-Asynch-LCA.git)
 
 [Training Day 3 Video]()
 
