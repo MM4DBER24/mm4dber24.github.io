@@ -93,7 +93,7 @@ Activity 1:
 - Handout [here](https://mm4dber24.github.io/Day3-Asynch-Handout.html)
 - Repository [here](https://github.com/MM4DBER24/Day3-Asynch-LCA.git)
 
-[Training Day 3 Video]()
+[Training Day 3 Video](https://drive.google.com/file/d/1KFJpCBas7thA7BinCM66UIPPUEn6LvUZ/view?usp=drive_link)
 
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSe5Sb2gfizj1iai5Ij12kzCan4lYTdSM9OPtcMbRjd1Lzo5fA/viewform?usp=sharing)
 
