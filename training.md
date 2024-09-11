@@ -124,6 +124,10 @@ Activity 1:
 - Tutorial handout: [Link here](https://mm4dber.github.io/interpret-aux-vars.html)
 - Download the Github repository here: [Interpretation of auxiliary variables](https://github.com/MM4DBER/auxiliary-variables)
 
+##### Additional resources: How to use the `here()` function
+- Video tutorial: [here](https://drive.google.com/file/d/1cmxZk1Oo52rtzZtZjCCPfD-nPqWJ_qwe/view?usp=sharing)
+- Handout: [here](https://mm4dber24.github.io/here_demo.html)
+
 [Training Day 4 Video]()
 
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSdMp67Y-KP8eMvA_sJAeQkdCTnMvrNsWrSiAiWdZGG8UEgZew/viewform?usp=sharing)
