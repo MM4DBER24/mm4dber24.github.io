@@ -109,17 +109,17 @@ Activity 1:
 
 #### Synchronous Activity:
 
-- Slide deck [Here]()
+- Slide deck [Here](https://drive.google.com/file/d/1WA2FBjHV1M9m-IOkeMuLEFl1khpsjWZH/view?usp=drive_link)
 - Mplus output file example: [c4_covariate_only.out](https://drive.google.com/file/d/1DZNZ2DFY-oRwAu1OJecb_TDXgUacSD5J/view?usp=sharing)
 
 #### Asynchronous Activity:
 
-**Activity 1: ML 3-Step Method**
+**Activity 1: Automated ML 3-Step Method**
 - Watch this code-along video and follow along in Rstudio: [Video](https://youtu.be/MZSFKmTLZRI?si=_eQLhpj046rMPuRM)
 - Tutorial handout: [Link here](https://mm4dber.github.io/3step-Method.html)
 - Download the Github repository here: [3-Step](https://github.com/MM4DBER/3-Step)
 
-**Activity 2 (optional): Interpretation of auxiliary variables**
+**Activity 2: Interpretation of auxiliary variables**
 - Watch this code-along video and follow along in Rstudio: [Video](https://www.youtube.com/watch?v=3UGMuAVbiac)
 - Tutorial handout: [Link here](https://mm4dber.github.io/interpret-aux-vars.html)
 - Download the Github repository here: [Interpretation of auxiliary variables](https://github.com/MM4DBER/auxiliary-variables)
