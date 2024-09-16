@@ -128,6 +128,10 @@ Activity 1:
 - Video tutorial: [here](https://drive.google.com/file/d/1cmxZk1Oo52rtzZtZjCCPfD-nPqWJ_qwe/view?usp=sharing)
 - Handout: [here](https://mm4dber24.github.io/here_demo.html)
 
+##### Bonus slides & 3-step article:
+- Bonus slides: [here](https://docs.google.com/presentation/d/12xbklMXgfphA3z3yh2YNRF3b6QI5qfs_4QhHwGvxMCA/edit?usp=sharing)
+- Article: [here](https://drive.google.com/file/d/1TppdLIH9utSyukjw15qeP9uIL2NRyRVR/view?usp=sharing)
+
 [Training Day 4 Video](https://drive.google.com/file/d/1bcC21brlgdy2O0c0oVhLnwYg9jIqfXnN/view?usp=drive_link)
 
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSdMp67Y-KP8eMvA_sJAeQkdCTnMvrNsWrSiAiWdZGG8UEgZew/viewform?usp=sharing)
