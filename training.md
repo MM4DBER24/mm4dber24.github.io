@@ -150,8 +150,15 @@ Activity 1:
 
 #### Synchronous Activity:
 
-- Slide deck [here]()
-- Feedback document [here]()
+- Slide deck [here](https://drive.google.com/file/d/1rKnzbyKWbbgwm-Zlx4zqvvu55boY1pED/view?usp=drive_link)
+- Workspace document [here](https://docs.google.com/presentation/d/1kQo7HZhxJjRWrmuzkUThwhh4p5JW7KveUFEvqxt2MUw/edit?usp=drive_link)
+
+#### Additional Resources (Latent Profile Analysis; LPA):
+
+Reading: [Masyn, 2013 (book chapter; p.36-52)](https://www.statmodel.com/download/Masyn_2013.pdf)
+Handout: [LPA in R code-along](https://mm4dber.github.io/Intro_to_LPA.html)
+Github repository: [Intro_to_LPA](https://github.com/MM4DBER/Intro_to_LPA.git)
+Video link: [Cohort 1 - LPA Training Recording (2023)](https://drive.google.com/file/d/1yAT-9hnwUJ0WJxja7lGjVnQ_MZO52WaT/view?usp=sharing)
 
 [Training Day 5 Video]()
 
