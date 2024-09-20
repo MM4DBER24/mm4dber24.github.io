@@ -155,12 +155,12 @@ Activity 1:
 
 #### Additional Resources (Latent Profile Analysis; LPA):
 
-Reading: [Masyn, 2013 (book chapter; p.36-52)](https://www.statmodel.com/download/Masyn_2013.pdf)
+Reading: [Masyn, 2013 (book chapter; p.36-52)](https://www.statmodel.com/download/Masyn_2013.pdf). *NOTE: For the LPA diabetes example (from slides) The final solution chosen is discussed on page 595 of this book chapter.*
 Handout: [LPA in R code-along](https://mm4dber.github.io/Intro_to_LPA.html)
 Github repository: [Intro_to_LPA](https://github.com/MM4DBER/Intro_to_LPA.git)
 Video link: [Cohort 1 - LPA Training Recording (2023)](https://drive.google.com/file/d/1yAT-9hnwUJ0WJxja7lGjVnQ_MZO52WaT/view?usp=sharing)
 
-[Training Day 5 Video]()
+[Training Day 5 Video](https://drive.google.com/file/d/1MKxpNoudGqgoi6m_Nbx-LppWnRxlXaCV/view?usp=drive_link)
 
 [Anonymous Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSchBfZc8bxNw-BTvjGcCJ5sSJKBYzI4Av5mfJl0JG0TtdqSeg/viewform?usp=sharing)
 
