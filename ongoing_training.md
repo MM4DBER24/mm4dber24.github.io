@@ -29,7 +29,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 - Reading (LTA Article): [Ten Frequently Asked Questions About Latent Transition Analysis](https://drive.google.com/file/d/10LzNDz7mjwdIUv0OJzKoxuOndU9CO6Kz/view?usp=drive_link)
 
 
-**Video recording:** [HERE]()
+**Video recording:** [HERE](https://drive.google.com/file/d/1O_81iP4rW57o-f38PU8-dqv80Ybn0xVd/view?usp=drive_link)
 
 
 ------------------------------------------------------------------------
