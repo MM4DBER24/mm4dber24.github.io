@@ -25,7 +25,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 ### October 11th Group Meeting
 
 - Meeting Joe Mirabelli: ["A Longitudinal Study of Undergraduate Engineering Student Stress, Stressors, Intention to Persist, and Identity"](https://drive.google.com/file/d/1KhnNOlF9s-g5xxjFYE_Lcs9xVJD2ws66/view?usp=drive_link)
-- Latent Transition Analysis: [Slides](https://drive.google.com/file/d/12jpQ9794a8ZRbE9UMzeQdhG7erRF4G2Q/view?usp=drive_link)
+- Introduction to Latent Transition Analysis: [LTA Slides](https://drive.google.com/file/d/12jpQ9794a8ZRbE9UMzeQdhG7erRF4G2Q/view?usp=drive_link)
 - Reading (LTA Article): [Ten Frequently Asked Questions About Latent Transition Analysis](https://drive.google.com/file/d/10LzNDz7mjwdIUv0OJzKoxuOndU9CO6Kz/view?usp=drive_link)
 
 
