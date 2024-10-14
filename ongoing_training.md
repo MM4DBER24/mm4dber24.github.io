@@ -34,7 +34,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ------------------------------------------------------------------------
 
-###  Group Meeting 
+### November 8 Group Meeting 
 
 - Meeting: [Slides]()
 - Video recording: [HERE]()
@@ -46,7 +46,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ------------------------------------------------------------------------
 
-###  Group Meeting 
+### December 13 Group Meeting 
 
 - Meeting: [Slides]()
 - Video recording: [HERE]()
@@ -59,11 +59,63 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ------------------------------------------------------------------------
 
-Helpful Links:
+### January 17 Group Meeting 
+
+- Meeting: [Slides]()
+- Video recording: [HERE]()
+
+### Extra Resources: 
+
+- Tutorial handout: []()
+- Repository: []()
+
+
+------------------------------------------------------------------------
+
+### March 14 Group Meeting 
+
+- Meeting: [Slides]()
+- Video recording: [HERE]()
+
+### Extra Resources: 
+
+- Tutorial handout: []()
+- Repository: []()
+
+
+------------------------------------------------------------------------
+
+### April 11 Group Meeting 
+
+- Meeting: [Slides]()
+- Video recording: [HERE]()
+
+### Extra Resources: 
+
+- Tutorial handout: []()
+- Repository: []()
+
+
+------------------------------------------------------------------------
+
+### May 9 Group Meeting 
+
+- Meeting: [Slides]()
+- Video recording: [HERE]()
+
+### Extra Resources: 
+
+- Tutorial handout: []()
+- Repository: []()
+
+
+------------------------------------------------------------------------
+
+## Helpful Links
+
+------------------------------------------------------------------------
 
 -   Please [visit our website](https://mm4dbers.education.ucsb.edu/) to learn more.
-
--   Visit our [GitHub](https://github.com/MM4DBER/mm4dber.github.io) account to access all the MM4DBER materials.
 
 -   Follow us on [Twitter](https://twitter.com/mm4dbers)!
 
