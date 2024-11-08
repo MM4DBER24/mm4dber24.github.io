@@ -36,13 +36,16 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ### November 8 Group Meeting 
 
-- Meeting: [Slides]()
+- Meeting Mellisa McCartney: [Slides]()
+
+### Data cleaning and screening tutorial
+
+- Repository: [clean-mix-data](https://github.com/MM4DBER24/clean-mix-data.git)
+- Data (seperate download): [part1](https://drive.google.com/drive/folders/1BecpGLenYMZm6Cvar8pCC9FvezLiAFH8?usp=drive_link), [part2](https://drive.google.com/drive/folders/1l9csjmi0fI_t-yIbuz-RiwOpq7hPyL5w?usp=drive_link)
+- Handout: [clean-mix-data](https://mm4dber24.github.io/clean-mix-data.html)
+
 - Video recording: [HERE]()
 
-### Extra Resources: 
-
-- Tutorial handout: []()
-- Repository: []()
 
 ------------------------------------------------------------------------
 
