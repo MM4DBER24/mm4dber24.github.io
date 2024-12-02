@@ -22,7 +22,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ------------------------------------------------------------------------
 
-### October 11th Group Meeting
+### October 11th Group Meeting: Undergraduate Engineering Student Stress & LTA
 
 - Meeting Joe Mirabelli: ["A Longitudinal Study of Undergraduate Engineering Student Stress, Stressors, Intention to Persist, and Identity"](https://drive.google.com/file/d/1KhnNOlF9s-g5xxjFYE_Lcs9xVJD2ws66/view?usp=drive_link)
 - Introduction to Latent Transition Analysis: [LTA Slides](https://drive.google.com/file/d/12jpQ9794a8ZRbE9UMzeQdhG7erRF4G2Q/view?usp=drive_link)
@@ -34,7 +34,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ------------------------------------------------------------------------
 
-### November 8 Group Meeting 
+### November 8 Group Meeting: Graduate Student Diversity in STEM & Data Cleaning/Screening
 
 - Meeting Mellisa McCartney: [Slides](https://drive.google.com/file/d/1nRejyUGRdvHg1pn0VouKBUGpmY5O0pE-/view?usp=sharing)
 
@@ -49,7 +49,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ------------------------------------------------------------------------
 
-### December 13 Group Meeting 
+### December 13 Group Meeting
 
 - Meeting: [Slides]()
 - Video recording: [HERE]()
