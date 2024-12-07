@@ -36,7 +36,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ### November 8 Group Meeting: Graduate Student Diversity in STEM & Data Cleaning/Screening
 
-- Meeting Mellisa McCartney: ["Characterizing active learning pedagogies in physics"](https://drive.google.com/file/d/1nRejyUGRdvHg1pn0VouKBUGpmY5O0pE-/view?usp=sharing)
+- Meeting Mellisa McCartney: ["Career development in bio(medical) undergraduates"](https://drive.google.com/file/d/1nRejyUGRdvHg1pn0VouKBUGpmY5O0pE-/view?usp=sharing)
 
 ### Data cleaning and screening tutorial
 
@@ -51,7 +51,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ### December 13 Group Meeting
 
-- Meeting Meagan Sundstrom: [Slides](https://github.com/user-attachments/files/18044968/Sundstrom_MMDBER.pdf)
+- Meeting Meagan Sundstrom: ["Characterizing active learning pedagogies in physics"](https://github.com/user-attachments/files/18044968/Sundstrom_MMDBER.pdf)
 - Video recording: [HERE]()
 
 ### Extra Resources: 
