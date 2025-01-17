@@ -64,7 +64,8 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ### January 17 Group Meeting 
 
-- Meeting Sue Ellen Dechenne-Peters: ["Latent Classes in Introductory Science Students"](https://github.com/user-attachments/files/18446699/MM4DBERs.presentation.1-17-24.pptx)
+- Sue Ellen Dechenne-Peters slides: ["Latent Classes in Introductory Science Students"](https://github.com/user-attachments/files/18446699/MM4DBERs.presentation.1-17-24.pptx)
+- Brandon Yik slide deck ["Understanding Student Affect"](https://drive.google.com/file/d/1al13QmQ3Wqe93Hs-EATgrUoWE4OxVVAg/view?usp=sharing)
 - Video recording: [HERE]()
 
 ### Extra Resources: 
