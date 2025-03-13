@@ -78,7 +78,7 @@ Mixture Modeling for Discipline-Based Education Researchers (MM4DBER) is an NSF-
 
 ### March 14 Group Meeting 
 
-- Meeting: [Slides]()
+- Karen Watkins-Lewis slide deck: [Slides](https://drive.google.com/file/d/1o5mAvSshcHqHWr24L6HgIZM9ZTiXbS_g/view?usp=sharing)
 - Video recording: [HERE]()
 
 ### Extra Resources: 
